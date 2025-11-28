@@ -78,12 +78,12 @@ export const Testimonials = () => {
           transition={{ duration: 0.6 }}
         >
           <div className="inline-flex items-center justify-center gap-4 bg-accent/10 px-8 py-6 rounded-full border-2 border-accent/20">
-            <div className="flex items-center justify-center w-16 h-16 rounded-full bg-accent text-accent-foreground">
-              <span className="text-2xl font-bold">50</span>
+            <div className="flex items-center justify-center w-20 h-20 rounded-full bg-accent text-accent-foreground">
+              <span className="text-2xl font-bold">400+</span>
             </div>
             <div className="text-left">
-              <p className="text-2xl font-bold text-foreground">Já Somos...</p>
-              <p className="text-xl text-muted-foreground">Alunos!</p>
+              <p className="text-2xl font-bold text-foreground">Somos Mais de</p>
+              <p className="text-xl text-muted-foreground">400 Alunos!</p>
             </div>
           </div>
         </motion.div>
