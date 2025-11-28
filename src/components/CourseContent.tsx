@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { CheckCircle2 } from "lucide-react";
-import softwarePreview from "@/assets/software-preview.jpg";
+import softwarePreview from "@/assets/printing-layout.jpg";
 
 const topics = [
   "Noção e visão do Audaces para criação do molde",
