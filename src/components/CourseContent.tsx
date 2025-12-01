@@ -3,18 +3,18 @@ import { CheckCircle2 } from "lucide-react";
 import softwarePreview from "@/assets/printing-layout.jpg";
 
 const topics = [
-  "Noção e visão do Audaces para criação do molde",
-  "Criação de barra de usuário personalizada",
-  "Funcionalidade de cada ferramenta",
-  "Exportação e importação para CorelDRAW",
-  "Base corporal com tabela de medidas",
-  "Criação de recorte princesa e transferência de pences",
-  "Saia godê e outros modelos",
-  "Criação de moldes de 3 formas diferentes",
-  "Fazer pences, bolsos e recortes",
-  "Estratégias de comercialização no Mercado Livre",
-  "Aula bônus: transformar camiseta raglan em tradicional",
-  "Impressão em ploter e papel"
+  "Noção e visão do programa Audaces para criação de moldes",
+  "Criar moldes em Audaces e moldes digitais do zero",
+  "Exportação para CorelDRAW e moldes gráficos",
+  "Converte Audaces para PDF em A4 e Audaces PDF",
+  "Usar Audaces Encaixe e mapa de risco",
+  "Encaixe de moldes e risco em Audaces",
+  "Trabalhar com Audaces DigiFlash",
+  "Modelagem por foto - criar molde de roupa por imagem",
+  "Molde CAD e Audaces CAD profissional",
+  "Criação de moldes digitais para info-produtos",
+  "Base corporal, recorte princesa e transferência de pences",
+  "Estratégias de comercialização no Mercado Livre"
 ];
 
 const includes = [
@@ -41,10 +41,10 @@ export const CourseContent = () => {
             transition={{ duration: 0.6 }}
           >
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              O Que Você Vai Aprender?
+              O Que Você Vai Aprender no Curso Audaces?
             </h2>
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-              Um programa completo que vai do básico ao avançado, com foco em resultados práticos e comerciais.
+              Aprenda Audaces do básico ao avançado: modelagem Audaces, moldes em Audaces, converte PDF e muito mais.
             </p>
 
             <div className="space-y-4">

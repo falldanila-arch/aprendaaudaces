@@ -25,16 +25,16 @@ export const Hero = () => {
             transition={{ duration: 0.8 }}
           >
             <span className="inline-block px-4 py-2 mb-6 text-sm font-medium tracking-wider text-accent bg-accent/10 rounded-full border border-accent/20">
-              CURSO PROFISSIONAL
+              CURSO AUDACES COMPLETO
             </span>
             
             <h1 className="mb-6 text-5xl md:text-7xl font-bold text-primary-foreground leading-tight">
-              Aprenda Modelagem no Audaces e <span className="text-accent">Lucre</span>
+              Aprenda Audaces e <span className="text-accent">Lucre</span> com Moldes Digitais
             </h1>
             
             <p className="mb-10 text-xl md:text-2xl text-primary-foreground/90 font-light leading-relaxed max-w-3xl mx-auto">
-              Domine a arte da modelagem digital com o Audaces e transforme sua carreira na moda. 
-              Mais de 50 moldes inclusos e suporte completo.
+              O melhor curso Audaces do Brasil. Domine modelagem digital, crie moldes em PDF e CAD, 
+              use Audaces Encaixe e DigiFlash. Mais de 50 moldes bases inclusos.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

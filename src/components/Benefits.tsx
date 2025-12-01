@@ -4,33 +4,33 @@ import { CheckCircle2, Clock, Download, Users, Video, Award } from "lucide-react
 const benefits = [
   {
     icon: Video,
-    title: "Aulas em Vídeo",
-    description: "Assista quando e onde quiser, com direito a replay ilimitado até dominar cada técnica"
+    title: "Aprenda Audaces em Vídeo",
+    description: "Curso Audaces completo para assistir quando e onde quiser, com replay ilimitado"
   },
   {
     icon: Download,
-    title: "Conteúdo Offline",
-    description: "Baixe todas as aulas e materiais para estudar mesmo sem internet"
+    title: "Moldes em PDF e CAD",
+    description: "Converta Audaces para PDF em A4 e exporte molde CAD para impressão"
   },
   {
     icon: CheckCircle2,
-    title: "50+ Moldes Inclusos",
-    description: "Bases femininas, infantis e muito mais - prontos para comercializar"
+    title: "50+ Moldes Digitais",
+    description: "Moldes em Audaces prontos: bases femininas, infantis e molde de roupa variados"
   },
   {
     icon: Users,
     title: "Grupo Exclusivo",
-    description: "Suporte direto via WhatsApp e networking com outros profissionais"
+    description: "Suporte direto via WhatsApp e networking com profissionais do programa Audaces"
   },
   {
     icon: Clock,
-    title: "Acesso Vitalício",
-    description: "Pague uma vez e tenha acesso para sempre, com todas as atualizações"
+    title: "Audaces Encaixe e DigiFlash",
+    description: "Domine encaixe de moldes, mapa de risco e risco em Audaces com o DigiFlash"
   },
   {
     icon: Award,
-    title: "Aprenda Praticando",
-    description: "3 modelos interpretados e construídos em tempo real com você"
+    title: "Modelagem por Foto",
+    description: "Aprenda modelagem Audaces criando moldes gráficos a partir de fotos reais"
   }
 ];
 
@@ -46,10 +46,10 @@ export const Benefits = () => {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-            Por Que Este Curso?
+            Por Que Escolher Este Curso Audaces?
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Tudo que você precisa para se tornar um profissional de modelagem digital
+            Aprenda Audaces e domine modelagem digital, moldes em PDF, Audaces PDF, converte PDF e muito mais
           </p>
         </motion.div>
 

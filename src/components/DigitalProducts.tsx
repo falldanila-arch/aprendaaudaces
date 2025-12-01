@@ -15,16 +15,16 @@ export const DigitalProducts = () => {
             transition={{ duration: 0.6 }}
           >
             <span className="inline-block px-4 py-2 mb-6 text-sm font-medium tracking-wider text-accent bg-accent/10 rounded-full border border-accent/20">
-              CURSO DIGITAL
+              INFO-PRODUTOS DIGITAIS
             </span>
             
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              Ganhe Dinheiro Fazendo Moldes Digitais
+              Ganhe Dinheiro com Moldes Digitais e Info-Produtos
             </h2>
             
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-              Aprenda a criar e vender moldes digitais (info-produtos) em qualquer marketplace. 
-              Transforme seu conhecimento em uma fonte de renda recorrente.
+              Com o curso Audaces, aprenda Audaces e crie moldes em PDF, molde CAD e moldes gráficos 
+              para vender como info-produtos em qualquer marketplace.
             </p>
 
             <div className="space-y-4 mb-8">
