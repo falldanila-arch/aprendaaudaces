@@ -17,7 +17,7 @@ const testimonials = [
   {
     name: "Débora",
     role: "Aluna",
-    text: "Eu adorei, Carol, muito obrigada! E percebi o quanto você é uma professora MARAVILHOSA!",
+    text: "Eu adorei, Robson, muito obrigada! E percebi o quanto você é um professor MARAVILHOSO!",
     rating: 5,
   },
 ];
