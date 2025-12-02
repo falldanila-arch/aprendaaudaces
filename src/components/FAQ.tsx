@@ -13,7 +13,11 @@ const faqs = [
   },
   {
     question: "Qual versão do Audaces é ensinada?",
-    answer: "O curso ensina o Audaces 5.5, que funciona em qualquer sistema operacional (não precisa de Windows XP). Você recebe o instalador do Audaces 5.5 junto com o curso, além do Digiflash. Esta versão faz tudo que as versões mais novas fazem."
+    answer: "O curso ensina o Audaces 5.5, que funciona em qualquer sistema operacional (não precisa de Windows XP). Você recebe o instalador do Audaces 5.5 junto com o curso. Esta versão faz tudo que as versões mais novas fazem."
+  },
+  {
+    question: "Recebo o DigiFlash?",
+    answer: "Sim, enviamos o DigiFlash junto com o curso. Porém, é importante saber que o DigiFlash não instala em qualquer computador ou sistema operacional - funciona de forma mais confiável apenas no Windows XP. Não garantimos a instalação do DigiFlash e não fazemos acesso remoto. O suporte é exclusivamente via mensagens no WhatsApp."
   },
   {
     question: "Qual a configuração mínima do computador?",
