@@ -7,6 +7,7 @@ import { DigitalProducts } from "@/components/DigitalProducts";
 import { FAQ } from "@/components/FAQ";
 import { CTA } from "@/components/CTA";
 import { WhatsAppButton } from "@/components/WhatsAppButton";
+import { ArticleLinks } from "@/components/ArticleLinks";
 
 const Index = () => {
   return (
@@ -17,6 +18,7 @@ const Index = () => {
       <Instructor />
       <Testimonials />
       <DigitalProducts />
+      <ArticleLinks />
       <FAQ />
       <CTA />
       <WhatsAppButton />
