@@ -24,7 +24,7 @@ const includes = [
   "3 modelos interpretados em tempo real",
   "Tabela de medidas de todos os gêneros",
   "Planilha de gastos de tecido",
-  "Audaces 5.5 para instalação",
+  "Compatível com qualquer versão do Audaces até a 5.5",
   "Suporte via WhatsApp",
   "Grupo exclusivo de alunos"
 ];

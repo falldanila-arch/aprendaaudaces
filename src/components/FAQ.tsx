@@ -12,12 +12,12 @@ const faqs = [
     answer: "As aulas são 100% digitais em formato de vídeo. Após a compra, você recebe um link com acesso imediato a todo o conteúdo. Pode assistir quando e onde quiser, com direito a replay ilimitado. É possível baixar as aulas para assistir offline."
   },
   {
-    question: "Qual versão do Audaces é ensinada?",
-    answer: "O curso ensina o Audaces 5.5, que funciona em qualquer sistema operacional (não precisa de Windows XP). Você recebe o instalador do Audaces 5.5 junto com o curso. Esta versão faz tudo que as versões mais novas fazem."
+    question: "Qual versão do Audaces posso usar?",
+    answer: "O curso é compatível com qualquer versão do Audaces, inclusive a versão 5.5 que instala em qualquer sistema operacional (não precisa de Windows XP). Esta versão faz tudo que as versões mais novas fazem."
   },
   {
-    question: "Recebo o DigiFlash?",
-    answer: "Sim, enviamos o DigiFlash junto com o curso. Porém, é importante saber que o DigiFlash não instala em qualquer computador ou sistema operacional - funciona de forma mais confiável apenas no Windows XP. Não garantimos a instalação do DigiFlash e não fazemos acesso remoto. O suporte é exclusivamente via mensagens no WhatsApp."
+    question: "O curso ensina DigiFlash?",
+    answer: "Sim, o curso inclui aulas sobre o Audaces DigiFlash. Porém, é importante saber que o DigiFlash não instala em qualquer computador ou sistema operacional - funciona de forma mais confiável apenas no Windows XP. Não garantimos a instalação do DigiFlash e não fazemos acesso remoto. O suporte é exclusivamente via mensagens no WhatsApp."
   },
   {
     question: "Qual a configuração mínima do computador?",
@@ -29,15 +29,11 @@ const faqs = [
   },
   {
     question: "Terei suporte após a compra?",
-    answer: "Sim! Você entra em um grupo exclusivo de alunos no WhatsApp onde pode tirar dúvidas. Também oferecemos suporte para instalação do Audaces via mensagens (não fazemos acesso remoto)."
+    answer: "Sim! Você entra em um grupo exclusivo de alunos no WhatsApp onde pode tirar dúvidas. Oferecemos suporte via mensagens (não fazemos acesso remoto)."
   },
   {
     question: "Quanto tempo tenho de acesso?",
     answer: "O acesso ao curso é vitalício. Pague uma vez e estude no seu ritmo, quantas vezes quiser."
-  },
-  {
-    question: "Como recebo o Audaces?",
-    answer: "O Audaces 5.5 é enviado junto com as aulas após a compra. Você recebe o instalador e pode instalar em qualquer computador. Oferecemos suporte via WhatsApp para ajudar na instalação."
   }
 ];
 
