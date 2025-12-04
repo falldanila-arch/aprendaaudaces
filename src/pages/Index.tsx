@@ -14,12 +14,12 @@ const Index = () => {
   return (
     <main className="min-h-screen">
       <Hero />
+      <OperadorAudaces />
       <Benefits />
       <CourseContent />
       <Instructor />
       <Testimonials />
       <DigitalProducts />
-      <OperadorAudaces />
       <ArticleLinks />
       <FAQ />
       <CTA />
