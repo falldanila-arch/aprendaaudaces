@@ -41,6 +41,7 @@ export const Hero = () => {
               <motion.div
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
+                className="flex flex-col items-center"
               >
                 <Button 
                   size="lg"
@@ -50,6 +51,7 @@ export const Hero = () => {
                   Começar Agora por R$ 299,90
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </Button>
+                <span className="text-xs text-primary-foreground/70 mt-2">Curso: Aprenda Modelagem no Audaces e Lucre</span>
               </motion.div>
               
               <motion.div
