@@ -35,17 +35,18 @@ export const OperadorAudaces = () => {
           className="text-center mb-12"
         >
           <span className="inline-block px-4 py-2 bg-primary/10 text-primary rounded-full text-sm font-semibold mb-4">
-            NOVO CURSO DISPONÍVEL
+            TAMBÉM TEMOS O CURSO
           </span>
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
             Curso Operador de Audaces
           </h2>
           <p className="text-xl text-primary font-semibold mb-2">
-            Digitalização e Liberação de Risco
+            Digitalização e Liberação de Risco/Mapa
           </p>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Aprenda a operar o Audaces, digitalizar moldes e liberar mapa ou risco. 
-            Profissionalize-se e encontre milhares de vagas por todo o território brasileiro!
+            Curso destinado a quem quer se profissionalizar para trabalhar no setor de corte, 
+            na plotter, na digitalização e liberação de risco/mapa. 
+            Encontre milhares de vagas por todo o território brasileiro!
           </p>
         </motion.div>
 
