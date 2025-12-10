@@ -6,6 +6,11 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
 
+// Theme pages
+import CursosModelagem from "./pages/CursosModelagem";
+import MoldesPDF from "./pages/MoldesPDF";
+import ModelagemDigital from "./pages/ModelagemDigital";
+
 // Article pages
 import AudacesEconomizandoTecido from "./pages/articles/AudacesEconomizandoTecido";
 import MoldesDigitaisSublimacao from "./pages/articles/MoldesDigitaisSublimacao";
@@ -36,6 +41,9 @@ const App = () => (
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Index />} />
+          <Route path="/cursos-modelagem" element={<CursosModelagem />} />
+          <Route path="/moldes-pdf" element={<MoldesPDF />} />
+          <Route path="/modelagem-digital" element={<ModelagemDigital />} />
           <Route path="/audaces-economizando-tecido" element={<AudacesEconomizandoTecido />} />
           <Route path="/moldes-digitais-sublimacao" element={<MoldesDigitaisSublimacao />} />
           <Route path="/mapa-risco-audaces" element={<MapaRiscoAudaces />} />
