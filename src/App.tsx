@@ -30,6 +30,7 @@ import FazerPilotoAudaces from "./pages/articles/FazerPilotoAudaces";
 import ConstruirMoldesAudaces from "./pages/articles/ConstruirMoldesAudaces";
 import MoldesTabelaMedidas from "./pages/articles/MoldesTabelaMedidas";
 import GabaritoBolsoAudaces from "./pages/articles/GabaritoBolsoAudaces";
+import DuvidasAudacesMoldes from "./pages/DuvidasAudacesMoldes";
 
 const queryClient = new QueryClient();
 
@@ -62,6 +63,7 @@ const App = () => (
           <Route path="/construir-moldes-audaces" element={<ConstruirMoldesAudaces />} />
           <Route path="/moldes-tabela-medidas" element={<MoldesTabelaMedidas />} />
           <Route path="/gabarito-bolso-audaces" element={<GabaritoBolsoAudaces />} />
+          <Route path="/duvidas-audaces-moldes" element={<DuvidasAudacesMoldes />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
