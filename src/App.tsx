@@ -31,6 +31,7 @@ import ConstruirMoldesAudaces from "./pages/articles/ConstruirMoldesAudaces";
 import MoldesTabelaMedidas from "./pages/articles/MoldesTabelaMedidas";
 import GabaritoBolsoAudaces from "./pages/articles/GabaritoBolsoAudaces";
 import DuvidasAudacesMoldes from "./pages/DuvidasAudacesMoldes";
+import DuvidasAudacesMoldes2 from "./pages/DuvidasAudacesMoldes2";
 
 const queryClient = new QueryClient();
 
@@ -64,6 +65,7 @@ const App = () => (
           <Route path="/moldes-tabela-medidas" element={<MoldesTabelaMedidas />} />
           <Route path="/gabarito-bolso-audaces" element={<GabaritoBolsoAudaces />} />
           <Route path="/duvidas-audaces-moldes" element={<DuvidasAudacesMoldes />} />
+          <Route path="/duvidas-audaces-moldes-2" element={<DuvidasAudacesMoldes2 />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
