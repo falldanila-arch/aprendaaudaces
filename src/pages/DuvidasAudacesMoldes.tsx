@@ -16,6 +16,7 @@ const DuvidasAudacesMoldes = () => {
       <Helmet>
         <title>Dúvidas Audaces Moldes - Apostila Completa do Curso | Aprenda Audaces</title>
         <meta name="description" content="Apostila completa do Curso Aprenda Modelagem no Audaces e Lucre. Tire suas dúvidas sobre moldes, ferramentas, graduação e muito mais." />
+        <meta name="keywords" content="curso modelagem, audaces moldes, moldes digitais, curso audaces, modelagem digital, aprenda audaces" />
       </Helmet>
 
       <main className="min-h-screen bg-background py-12 px-4">
