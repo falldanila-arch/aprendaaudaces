@@ -2,10 +2,15 @@ import { motion } from "framer-motion";
 import { ArrowLeft, ArrowRight, Square } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 const GabaritoBolsoAudaces = () => {
   return (
-    <main className="min-h-screen bg-background">
+    <>
+      <Helmet>
+        <meta name="keywords" content="modelagem digital, moldes em pdf, cursos de modelagem, curso modelagem, audaces moldes" />
+      </Helmet>
+      <main className="min-h-screen bg-background">
       <div className="container px-6 py-12 mx-auto max-w-4xl">
         <Link to="/" className="inline-flex items-center text-accent hover:text-accent/80 mb-8">
           <ArrowLeft className="w-4 h-4 mr-2" />
@@ -79,6 +84,7 @@ const GabaritoBolsoAudaces = () => {
         </motion.article>
       </div>
     </main>
+    </>
   );
 };
 

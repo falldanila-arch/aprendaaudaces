@@ -10,6 +10,7 @@ const CursosModelagem = () => {
       <Helmet>
         <title>Cursos de Modelagem - Aprenda Audaces Online | Cursos Profissionais</title>
         <meta name="description" content="Cursos de modelagem profissional em Audaces. Aprenda modelagem digital, criação de moldes e técnicas avançadas. Mais de 400 alunos formados." />
+        <meta name="keywords" content="modelagem digital, moldes em pdf, cursos de modelagem, curso modelagem, audaces moldes, curso audaces" />
       </Helmet>
       
       <main className="min-h-screen bg-background">

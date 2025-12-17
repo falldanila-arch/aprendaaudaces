@@ -10,6 +10,7 @@ const MoldesPDF = () => {
       <Helmet>
         <title>Moldes em PDF - Aprenda a Criar e Converter Moldes Digitais | Audaces</title>
         <meta name="description" content="Aprenda a criar moldes em PDF profissionais com Audaces. Converta moldes para impressão em A4, plotters e sublimação. Curso completo com 50+ moldes inclusos." />
+        <meta name="keywords" content="modelagem digital, moldes em pdf, cursos de modelagem, curso modelagem, audaces moldes" />
       </Helmet>
       
       <main className="min-h-screen bg-background">
