@@ -10,6 +10,7 @@ const ModelagemDigital = () => {
       <Helmet>
         <title>Modelagem Digital - O Futuro da Moda | Curso Audaces Completo</title>
         <meta name="description" content="Modelagem digital é o futuro da indústria da moda. Aprenda técnicas profissionais de CAD com Audaces. Curso com 20+ anos de experiência do Professor Robson." />
+        <meta name="keywords" content="modelagem digital, moldes em pdf, cursos de modelagem, curso modelagem, audaces moldes" />
       </Helmet>
       
       <main className="min-h-screen bg-background">
