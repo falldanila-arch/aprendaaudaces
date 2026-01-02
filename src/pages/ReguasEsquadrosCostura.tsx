@@ -1,0 +1,154 @@
+import { motion } from "framer-motion";
+import { ArrowRight, Ruler, Square, PenTool } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
+
+const ReguasEsquadrosCostura = () => {
+  return (
+    <>
+      <Helmet>
+        <title>Réguas e Esquadros para Costura - Ferramentas Essenciais | Modelagem</title>
+        <meta name="description" content="Réguas e esquadros para costura: conheça as ferramentas essenciais para modelagem e corte de tecidos. Guia completo de instrumentos de costura." />
+        <meta name="keywords" content="réguas para costura, esquadros costura, ferramentas modelagem, modelagem digital, moldes em pdf, cursos de modelagem, curso modelagem, audaces moldes" />
+      </Helmet>
+      
+      <main className="min-h-screen bg-background">
+        <div className="container mx-auto px-4 py-8">
+          <Link 
+            to="/" 
+            className="inline-flex items-center text-primary hover:text-primary/80 mb-6"
+          >
+            ← Voltar para o Início
+          </Link>
+
+          <motion.article
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.5 }}
+            className="prose prose-lg max-w-4xl mx-auto"
+          >
+            <div className="flex items-center gap-3 mb-6">
+              <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center">
+                <Ruler className="w-6 h-6 text-primary" />
+              </div>
+              <span className="text-sm text-muted-foreground">Ferramentas de Costura</span>
+            </div>
+
+            <h1 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
+              Réguas e Esquadros para Costura: Ferramentas Essenciais
+            </h1>
+
+            <p className="text-muted-foreground text-lg mb-8">
+              As ferramentas certas fazem toda a diferença na precisão dos moldes e no resultado 
+              final das peças. Conheça as réguas e esquadros indispensáveis para costura.
+            </p>
+
+            <h2 className="text-2xl font-bold mb-4">Ferramentas Essenciais</h2>
+            
+            <div className="grid md:grid-cols-3 gap-6 mb-10">
+              <div className="bg-card border border-border rounded-xl p-6">
+                <Ruler className="w-10 h-10 text-primary mb-4" />
+                <h3 className="text-xl font-semibold mb-2">Régua de Metal</h3>
+                <p className="text-muted-foreground">
+                  50cm ou 1m para traçar linhas retas com precisão.
+                </p>
+              </div>
+
+              <div className="bg-card border border-border rounded-xl p-6">
+                <Square className="w-10 h-10 text-primary mb-4" />
+                <h3 className="text-xl font-semibold mb-2">Esquadro</h3>
+                <p className="text-muted-foreground">
+                  Para garantir ângulos de 90° perfeitos nos moldes.
+                </p>
+              </div>
+
+              <div className="bg-card border border-border rounded-xl p-6">
+                <PenTool className="w-10 h-10 text-primary mb-4" />
+                <h3 className="text-xl font-semibold mb-2">Curva Francesa</h3>
+                <p className="text-muted-foreground">
+                  Para traçar cavas, decotes e curvas suaves.
+                </p>
+              </div>
+            </div>
+
+            <h2 className="text-2xl font-bold mb-4">Lista Completa de Ferramentas</h2>
+            <ul className="space-y-3 mb-10">
+              <li className="flex items-start gap-3">
+                <ArrowRight className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
+                <span><strong>Régua de alfaiate:</strong> Flexível para medir curvas do corpo</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <ArrowRight className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
+                <span><strong>Esquadro de modelagem:</strong> Para marcar costuras e fio</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <ArrowRight className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
+                <span><strong>Curva de quadril:</strong> Para cavas e laterais de calças</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <ArrowRight className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
+                <span><strong>Fita métrica:</strong> 1,5m para medidas corporais</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <ArrowRight className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
+                <span><strong>Carretilha:</strong> Para marcar piques e costuras</span>
+              </li>
+            </ul>
+
+            <h2 className="text-2xl font-bold mb-4">Páginas Relacionadas</h2>
+            <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
+              <Link to="/moldes-para-costura" className="bg-card border border-border rounded-xl p-4 hover:border-primary transition-colors">
+                <p className="font-semibold text-foreground">Moldes para Costura</p>
+                <p className="text-sm text-muted-foreground">Crie seus moldes</p>
+              </Link>
+              <Link to="/corte-enfesto-tecido" className="bg-card border border-border rounded-xl p-4 hover:border-primary transition-colors">
+                <p className="font-semibold text-foreground">Corte e Enfesto</p>
+                <p className="text-sm text-muted-foreground">Técnicas de corte</p>
+              </Link>
+              <Link to="/molde-de-roupa" className="bg-card border border-border rounded-xl p-4 hover:border-primary transition-colors">
+                <p className="font-semibold text-foreground">Molde de Roupa</p>
+                <p className="text-sm text-muted-foreground">Crie roupas</p>
+              </Link>
+              <Link to="/modelagem-descomplicada" className="bg-card border border-border rounded-xl p-4 hover:border-primary transition-colors">
+                <p className="font-semibold text-foreground">Modelagem Descomplicada</p>
+                <p className="text-sm text-muted-foreground">Aprenda fácil</p>
+              </Link>
+              <Link to="/artesanato-costura" className="bg-card border border-border rounded-xl p-4 hover:border-primary transition-colors">
+                <p className="font-semibold text-foreground">Artesanato de Costura</p>
+                <p className="text-sm text-muted-foreground">Projetos artesanais</p>
+              </Link>
+              <Link to="/cursos-modelagem" className="bg-card border border-border rounded-xl p-4 hover:border-primary transition-colors">
+                <p className="font-semibold text-foreground">Cursos de Modelagem</p>
+                <p className="text-sm text-muted-foreground">Aprenda mais</p>
+              </Link>
+            </div>
+
+            <motion.div
+              initial={{ opacity: 0, scale: 0.95 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ duration: 0.5, delay: 0.2 }}
+              className="bg-primary/10 border border-primary/20 rounded-xl p-8 text-center"
+            >
+              <h3 className="text-2xl font-bold mb-4">Aprenda a Usar as Ferramentas</h3>
+              <p className="text-muted-foreground mb-6">
+                Domine o uso de todas as ferramentas de modelagem em nosso curso.
+              </p>
+              <a 
+                href="https://go.pepper.com.br/1xtll"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Button size="lg">
+                  Começar Agora <ArrowRight className="ml-2 h-5 w-5" />
+                </Button>
+              </a>
+            </motion.div>
+          </motion.article>
+        </div>
+      </main>
+    </>
+  );
+};
+
+export default ReguasEsquadrosCostura;

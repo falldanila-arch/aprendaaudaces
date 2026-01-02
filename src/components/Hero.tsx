@@ -10,7 +10,7 @@ export const Hero = () => {
       <div className="absolute inset-0 z-0">
         <img 
           src={heroImage} 
-          alt="Modelagem profissional de moda" 
+          alt="Cursos de modelagem - Aprenda modelagem digital e crie moldes profissionais" 
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-primary/95 via-primary/85 to-primary/70" />
