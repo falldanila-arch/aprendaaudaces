@@ -10,6 +10,16 @@ import NotFound from "./pages/NotFound";
 import CursosModelagem from "./pages/CursosModelagem";
 import MoldesPDF from "./pages/MoldesPDF";
 import ModelagemDigital from "./pages/ModelagemDigital";
+import MoldesParaCostura from "./pages/MoldesParaCostura";
+import MoldeDeRoupa from "./pages/MoldeDeRoupa";
+import ModelagemDescomplicada from "./pages/ModelagemDescomplicada";
+import CosturaCriativa from "./pages/CosturaCriativa";
+import ArtesanatoCostura from "./pages/ArtesanatoCostura";
+import TecidoFabricaTextil from "./pages/TecidoFabricaTextil";
+import FioTecido from "./pages/FioTecido";
+import ReguasEsquadrosCostura from "./pages/ReguasEsquadrosCostura";
+import CorteEnfestoTecido from "./pages/CorteEnfestoTecido";
+import ModelagemDigitalPage from "./pages/ModelagemDigitalPage";
 
 // Article pages
 import AudacesEconomizandoTecido from "./pages/articles/AudacesEconomizandoTecido";
@@ -46,6 +56,16 @@ const App = () => (
           <Route path="/cursos-modelagem" element={<CursosModelagem />} />
           <Route path="/moldes-pdf" element={<MoldesPDF />} />
           <Route path="/modelagem-digital" element={<ModelagemDigital />} />
+          <Route path="/moldes-para-costura" element={<MoldesParaCostura />} />
+          <Route path="/molde-de-roupa" element={<MoldeDeRoupa />} />
+          <Route path="/modelagem-descomplicada" element={<ModelagemDescomplicada />} />
+          <Route path="/costura-criativa" element={<CosturaCriativa />} />
+          <Route path="/artesanato-costura" element={<ArtesanatoCostura />} />
+          <Route path="/tecido-fabrica-textil" element={<TecidoFabricaTextil />} />
+          <Route path="/fio-tecido" element={<FioTecido />} />
+          <Route path="/reguas-esquadros-costura" element={<ReguasEsquadrosCostura />} />
+          <Route path="/corte-enfesto-tecido" element={<CorteEnfestoTecido />} />
+          <Route path="/modelagem-digital-page" element={<ModelagemDigitalPage />} />
           <Route path="/audaces-economizando-tecido" element={<AudacesEconomizandoTecido />} />
           <Route path="/moldes-digitais-sublimacao" element={<MoldesDigitaisSublimacao />} />
           <Route path="/mapa-risco-audaces" element={<MapaRiscoAudaces />} />
