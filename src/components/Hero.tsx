@@ -25,7 +25,7 @@ export const Hero = () => {
             transition={{ duration: 0.8 }}
           >
             <span className="inline-block px-4 py-2 mb-6 text-sm font-medium tracking-wider text-accent bg-accent/10 rounded-full border border-accent/20">
-              CURSO AUDACES COMPLETO
+              CURSOS DE MODELAGEM
             </span>
             
             <h1 className="mb-6 text-5xl md:text-7xl font-bold text-primary-foreground leading-tight">
