@@ -28,7 +28,7 @@ export const Instructor = () => {
           <div className="relative">
             <img
               src={professorImage}
-              alt="Professor Robson - Instrutor do Curso Audaces"
+              alt="Professor de costura e modelagem digital - Instrutor do Curso Audaces com 20 anos de experiência"
               className="rounded-2xl shadow-xl w-full max-w-md mx-auto object-cover aspect-[3/4]"
             />
             <div className="absolute -bottom-4 -right-4 bg-accent text-accent-foreground px-6 py-3 rounded-full font-bold shadow-lg">
@@ -115,7 +115,7 @@ export const Instructor = () => {
           <div className="order-1 md:order-2">
             <img
               src={corporateImage}
-              alt="Treinamento corporativo de Audaces em empresas"
+              alt="Curso Audaces - Treinamento corporativo de modelagem digital em empresas têxteis"
               className="rounded-2xl shadow-xl w-full object-cover"
             />
           </div>

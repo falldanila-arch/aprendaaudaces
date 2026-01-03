@@ -9,6 +9,7 @@ import { FAQ } from "@/components/FAQ";
 import { CTA } from "@/components/CTA";
 import { WhatsAppButton } from "@/components/WhatsAppButton";
 import { ArticleLinks } from "@/components/ArticleLinks";
+import { ThematicLinks } from "@/components/ThematicLinks";
 import { Helmet } from "react-helmet";
 
 const Index = () => {
@@ -18,18 +19,19 @@ const Index = () => {
         <meta name="keywords" content="modelagem digital, moldes em pdf, cursos de modelagem, curso modelagem, audaces moldes, curso audaces, aprenda audaces" />
       </Helmet>
       <main className="min-h-screen">
-      <Hero />
-      <OperadorAudaces />
-      <Benefits />
-      <CourseContent />
-      <Instructor />
-      <Testimonials />
-      <DigitalProducts />
-      <ArticleLinks />
-      <FAQ />
-      <CTA />
-      <WhatsAppButton />
-    </main>
+        <Hero />
+        <OperadorAudaces />
+        <Benefits />
+        <CourseContent />
+        <Instructor />
+        <Testimonials />
+        <DigitalProducts />
+        <ThematicLinks />
+        <ArticleLinks />
+        <FAQ />
+        <CTA />
+        <WhatsAppButton />
+      </main>
     </>
   );
 };

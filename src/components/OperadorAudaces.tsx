@@ -63,14 +63,14 @@ export const OperadorAudaces = () => {
               <div className="rounded-xl overflow-hidden shadow-xl">
                 <img 
                   src={operadorImg1} 
-                  alt="Curso Operador de Audaces - Digitalização" 
+                  alt="Curso Audaces - Digitalização de moldes em PDF e modelagem digital" 
                   className="w-full h-auto object-cover"
                 />
               </div>
               <div className="rounded-xl overflow-hidden shadow-xl">
                 <img 
                   src={operadorImg2} 
-                  alt="Curso Operador de Audaces - Liberação de Risco" 
+                  alt="Modelagem digital - Liberação de risco e mapa de corte no Audaces" 
                   className="w-full h-auto object-cover"
                 />
               </div>

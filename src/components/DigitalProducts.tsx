@@ -108,7 +108,7 @@ export const DigitalProducts = () => {
             <div className="rounded-2xl overflow-hidden shadow-[0_20px_60px_-15px_hsl(var(--accent)/0.4)]">
               <img 
                 src={earnMoneyImage} 
-                alt="O melhor curso de Audaces - Ganhe dinheiro fazendo moldes digitais" 
+                alt="Moldes em PDF - Ganhe dinheiro vendendo moldes digitais e modelagem digital online" 
                 className="w-full h-auto"
               />
             </div>
