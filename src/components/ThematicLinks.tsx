@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import { Scissors, Shirt, BookOpen, Monitor, Palette, Heart, Factory, Ribbon, Ruler, Layers } from "lucide-react";
+import { Scissors, Shirt, BookOpen, Monitor, Palette, Heart, Factory, Ribbon, Ruler, Layers, Award, Cog, Pencil, Circle, Wrench, CheckCircle, Download, Settings, GraduationCap } from "lucide-react";
 
 const thematicPages = [
   { path: "/moldes-para-costura", title: "Moldes para Costura", icon: Scissors },
@@ -13,6 +13,16 @@ const thematicPages = [
   { path: "/fio-tecido", title: "Fio e Tecido", icon: Ribbon },
   { path: "/reguas-esquadros-costura", title: "Réguas e Esquadros", icon: Ruler },
   { path: "/corte-enfesto-tecido", title: "Corte e Enfesto", icon: Layers },
+  { path: "/modelagem-profissional", title: "Modelagem Profissional", icon: Award },
+  { path: "/criacao-de-roupas", title: "Criação de Roupas", icon: Shirt },
+  { path: "/modelagem-cad", title: "Modelagem CAD", icon: Cog },
+  { path: "/modelagem-manual", title: "Modelagem Manual", icon: Pencil },
+  { path: "/aviamentos", title: "Aviamentos", icon: Circle },
+  { path: "/maquinarios-costura", title: "Maquinários", icon: Wrench },
+  { path: "/acabamento-costura", title: "Acabamento", icon: CheckCircle },
+  { path: "/audaces-gratis", title: "Audaces Grátis", icon: Download },
+  { path: "/audaces-7", title: "Audaces 7", icon: Settings },
+  { path: "/cursos-de-modelagem", title: "Cursos de Modelagem", icon: GraduationCap },
 ];
 
 export const ThematicLinks = () => {

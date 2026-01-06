@@ -20,6 +20,15 @@ import FioTecido from "./pages/FioTecido";
 import ReguasEsquadrosCostura from "./pages/ReguasEsquadrosCostura";
 import CorteEnfestoTecido from "./pages/CorteEnfestoTecido";
 import ModelagemDigitalPage from "./pages/ModelagemDigitalPage";
+import ModelagemProfissional from "./pages/ModelagemProfissional";
+import CriacaoRoupas from "./pages/CriacaoRoupas";
+import ModelagemCad from "./pages/ModelagemCad";
+import ModelagemManual from "./pages/ModelagemManual";
+import Aviamentos from "./pages/Aviamentos";
+import MaquinariosCostura from "./pages/MaquinariosCostura";
+import AcabamentoCostura from "./pages/AcabamentoCostura";
+import AudacesGratis from "./pages/AudacesGratis";
+import AudacesSete from "./pages/AudacesSete";
 
 // Article pages
 import AudacesEconomizandoTecido from "./pages/articles/AudacesEconomizandoTecido";
@@ -66,6 +75,17 @@ const App = () => (
           <Route path="/reguas-esquadros-costura" element={<ReguasEsquadrosCostura />} />
           <Route path="/corte-enfesto-tecido" element={<CorteEnfestoTecido />} />
           <Route path="/modelagem-digital-page" element={<ModelagemDigitalPage />} />
+          <Route path="/modelagem-digital-completa" element={<ModelagemDigitalPage />} />
+          <Route path="/modelagem-profissional" element={<ModelagemProfissional />} />
+          <Route path="/criacao-de-roupas" element={<CriacaoRoupas />} />
+          <Route path="/modelagem-cad" element={<ModelagemCad />} />
+          <Route path="/modelagem-manual" element={<ModelagemManual />} />
+          <Route path="/aviamentos" element={<Aviamentos />} />
+          <Route path="/maquinarios-costura" element={<MaquinariosCostura />} />
+          <Route path="/acabamento-costura" element={<AcabamentoCostura />} />
+          <Route path="/audaces-gratis" element={<AudacesGratis />} />
+          <Route path="/audaces-7" element={<AudacesSete />} />
+          <Route path="/cursos-de-modelagem" element={<CursosModelagem />} />
           <Route path="/audaces-economizando-tecido" element={<AudacesEconomizandoTecido />} />
           <Route path="/moldes-digitais-sublimacao" element={<MoldesDigitaisSublimacao />} />
           <Route path="/mapa-risco-audaces" element={<MapaRiscoAudaces />} />
