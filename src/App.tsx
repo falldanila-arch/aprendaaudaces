@@ -29,6 +29,9 @@ import MaquinariosCostura from "./pages/MaquinariosCostura";
 import AcabamentoCostura from "./pages/AcabamentoCostura";
 import AudacesGratis from "./pages/AudacesGratis";
 import AudacesSete from "./pages/AudacesSete";
+import Audaces from "./pages/Audaces";
+import AudacesDigiflash from "./pages/AudacesDigiflash";
+import AudacesEncaixe from "./pages/AudacesEncaixe";
 
 // Article pages
 import AudacesEconomizandoTecido from "./pages/articles/AudacesEconomizandoTecido";
@@ -85,6 +88,9 @@ const App = () => (
           <Route path="/acabamento-costura" element={<AcabamentoCostura />} />
           <Route path="/audaces-gratis" element={<AudacesGratis />} />
           <Route path="/audaces-7" element={<AudacesSete />} />
+          <Route path="/audaces" element={<Audaces />} />
+          <Route path="/audaces-digiflash" element={<AudacesDigiflash />} />
+          <Route path="/audaces-encaixe" element={<AudacesEncaixe />} />
           <Route path="/cursos-de-modelagem" element={<CursosModelagem />} />
           <Route path="/audaces-economizando-tecido" element={<AudacesEconomizandoTecido />} />
           <Route path="/moldes-digitais-sublimacao" element={<MoldesDigitaisSublimacao />} />
