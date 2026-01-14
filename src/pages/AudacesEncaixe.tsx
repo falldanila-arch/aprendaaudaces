@@ -10,7 +10,7 @@ const AudacesEncaixe = () => {
       <Helmet>
         <title>Audaces Encaixe - Otimização de Tecido e Corte | Aprenda Audaces</title>
         <meta name="description" content="Domine o Audaces Encaixe e aprenda a otimizar o consumo de tecido. Encaixe automático inteligente que economiza até 15% de matéria-prima na confecção." />
-        <meta name="keywords" content="audaces encaixe, encaixe automático, otimização tecido, economia tecido, encaixe moldes, risco tecido, mapa de corte, audaces corte" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, audaces encaixe, encaixe automático, otimização tecido" />
         <link rel="canonical" href="https://aprendaaudaces.lovable.app/audaces-encaixe" />
       </Helmet>
 

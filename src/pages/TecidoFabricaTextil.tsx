@@ -10,7 +10,7 @@ const TecidoFabricaTextil = () => {
       <Helmet>
         <title>Tecido e Fábrica Têxtil - Guia Completo de Tecidos | Indústria Têxtil</title>
         <meta name="description" content="Tecido e fábrica têxtil: conheça os principais tipos de tecidos, produção industrial e como escolher o melhor material para suas criações." />
-        <meta name="keywords" content="tecido, fábrica têxtil, indústria têxtil, modelagem digital, moldes em pdf, cursos de modelagem, curso modelagem, audaces moldes" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, tecido, fábrica têxtil, indústria têxtil, audaces moldes" />
       </Helmet>
       
       <main className="min-h-screen bg-background">
