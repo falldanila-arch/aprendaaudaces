@@ -10,7 +10,7 @@ const AudacesGratis = () => {
       <Helmet>
         <title>Audaces Grátis - Versão Gratuita do Software de Modelagem | Aprenda Audaces</title>
         <meta name="description" content="Saiba como usar o Audaces grátis. Conheça a versão de demonstração, alternativas gratuitas e como aprender modelagem digital sem investir em licença." />
-        <meta name="keywords" content="Audaces grátis, Audaces free, Audaces demonstração, Audaces download, software modelagem grátis" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, Audaces grátis, Audaces free, Audaces demonstração" />
       </Helmet>
       <main className="min-h-screen bg-background">
         <div className="container px-6 py-12 mx-auto">

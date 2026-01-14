@@ -10,7 +10,7 @@ const ModelagemDigitalPage = () => {
       <Helmet>
         <title>Modelagem Digital - Crie Moldes no Computador | Curso Audaces Completo</title>
         <meta name="description" content="Modelagem digital: aprenda a criar moldes profissionais no computador usando Audaces. Curso completo de modelagem digital com certificado." />
-        <meta name="keywords" content="modelagem digital, moldes digitais, audaces, modelagem digital, moldes em pdf, cursos de modelagem, curso modelagem, audaces moldes" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, modelagem digital, moldes digitais, audaces moldes" />
       </Helmet>
       
       <main className="min-h-screen bg-background">

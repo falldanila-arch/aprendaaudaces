@@ -10,7 +10,7 @@ const CorteEnfestoTecido = () => {
       <Helmet>
         <title>Corte e Enfesto de Tecido - Técnicas Profissionais | Audaces</title>
         <meta name="description" content="Corte e enfesto de tecido: aprenda técnicas profissionais de corte e enfesto para confecção. Otimize o aproveitamento de tecido e reduza desperdício." />
-        <meta name="keywords" content="corte de tecido, enfesto, encaixe de moldes, modelagem digital, moldes em pdf, cursos de modelagem, curso modelagem, audaces moldes" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, corte de tecido, enfesto, encaixe de moldes, audaces moldes" />
       </Helmet>
       
       <main className="min-h-screen bg-background">

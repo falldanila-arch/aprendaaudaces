@@ -10,7 +10,7 @@ const ArtesanatoCostura = () => {
       <Helmet>
         <title>Artesanato de Costura - Projetos Artesanais com Tecido | Curso Completo</title>
         <meta name="description" content="Artesanato de costura: projetos artesanais com tecido para criar bolsas, necessaires, almofadas e mais. Aprenda técnicas de costura artesanal." />
-        <meta name="keywords" content="artesanato de costura, costura artesanal, modelagem digital, moldes em pdf, cursos de modelagem, curso modelagem, audaces moldes" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, artesanato de costura, costura artesanal, audaces moldes" />
       </Helmet>
       
       <main className="min-h-screen bg-background">
