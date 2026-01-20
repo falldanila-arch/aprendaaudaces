@@ -32,6 +32,15 @@ import AudacesSete from "./pages/AudacesSete";
 import Audaces from "./pages/Audaces";
 import AudacesDigiflash from "./pages/AudacesDigiflash";
 import AudacesEncaixe from "./pages/AudacesEncaixe";
+import Costura from "./pages/Costura";
+import CosturaEmCasa from "./pages/CosturaEmCasa";
+import CosturaECorte from "./pages/CosturaECorte";
+import AltaCostura from "./pages/AltaCostura";
+import CosturaSocial from "./pages/CosturaSocial";
+import CosturaAlfaiataria from "./pages/CosturaAlfaiataria";
+import CosturaBasica from "./pages/CosturaBasica";
+import CosturaModinha from "./pages/CosturaModinha";
+import CosturaEDesign from "./pages/CosturaEDesign";
 
 // Article pages
 import AudacesEconomizandoTecido from "./pages/articles/AudacesEconomizandoTecido";
@@ -91,6 +100,15 @@ const App = () => (
           <Route path="/audaces" element={<Audaces />} />
           <Route path="/audaces-digiflash" element={<AudacesDigiflash />} />
           <Route path="/audaces-encaixe" element={<AudacesEncaixe />} />
+          <Route path="/costura" element={<Costura />} />
+          <Route path="/costura-em-casa" element={<CosturaEmCasa />} />
+          <Route path="/costura-e-corte" element={<CosturaECorte />} />
+          <Route path="/alta-costura" element={<AltaCostura />} />
+          <Route path="/costura-social" element={<CosturaSocial />} />
+          <Route path="/costura-alfaiataria" element={<CosturaAlfaiataria />} />
+          <Route path="/costura-basica" element={<CosturaBasica />} />
+          <Route path="/costura-modinha" element={<CosturaModinha />} />
+          <Route path="/costura-e-design" element={<CosturaEDesign />} />
           <Route path="/cursos-de-modelagem" element={<CursosModelagem />} />
           <Route path="/audaces-economizando-tecido" element={<AudacesEconomizandoTecido />} />
           <Route path="/moldes-digitais-sublimacao" element={<MoldesDigitaisSublimacao />} />

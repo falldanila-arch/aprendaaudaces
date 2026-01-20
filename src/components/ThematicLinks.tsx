@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import { Scissors, Shirt, BookOpen, Monitor, Palette, Heart, Factory, Ribbon, Ruler, Layers, Award, Cog, Pencil, Circle, Wrench, CheckCircle, Download, Settings, GraduationCap } from "lucide-react";
+import { Scissors, Shirt, BookOpen, Monitor, Palette, Heart, Factory, Ribbon, Ruler, Layers, Award, Cog, Pencil, Circle, Wrench, CheckCircle, Download, Settings, GraduationCap, Home, Crown, Sparkles, Briefcase, TrendingUp } from "lucide-react";
 
 const thematicPages = [
   { path: "/moldes-para-costura", title: "Moldes para Costura", icon: Scissors },
@@ -23,6 +23,15 @@ const thematicPages = [
   { path: "/audaces-gratis", title: "Audaces Grátis", icon: Download },
   { path: "/audaces-7", title: "Audaces 7", icon: Settings },
   { path: "/cursos-de-modelagem", title: "Cursos de Modelagem", icon: GraduationCap },
+  { path: "/costura", title: "Costura", icon: Scissors },
+  { path: "/costura-em-casa", title: "Costura em Casa", icon: Home },
+  { path: "/costura-e-corte", title: "Costura e Corte", icon: Scissors },
+  { path: "/alta-costura", title: "Alta Costura", icon: Crown },
+  { path: "/costura-social", title: "Costura Social", icon: Sparkles },
+  { path: "/costura-alfaiataria", title: "Costura Alfaiataria", icon: Briefcase },
+  { path: "/costura-basica", title: "Costura Básica", icon: BookOpen },
+  { path: "/costura-modinha", title: "Costura Modinha", icon: TrendingUp },
+  { path: "/costura-e-design", title: "Costura e Design", icon: Palette },
 ];
 
 export const ThematicLinks = () => {
