@@ -16,7 +16,9 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, modelagem digital, moldes em pdf, audaces moldes, curso audaces, aprenda audaces" />
+        <title>Cursos de Modelagem Audaces | Moldes em PDF e Modelagem Digital</title>
+        <meta name="description" content="Curso Audaces, modelagem digital, moldes em PDF, cursos de modelagem, costura e designer gráfico. Aprenda a criar moldes profissionais com as melhores técnicas do mercado têxtil." />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, modelagem digital, moldes em pdf, audaces moldes, curso audaces, aprenda audaces, audaces, costura, designer grafico" />
       </Helmet>
       <main className="min-h-screen">
         <Hero />
