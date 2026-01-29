@@ -40,15 +40,17 @@ const CosturaCriativa = () => {
             </h1>
 
             <p className="text-muted-foreground text-lg mb-8">
-              A costura criativa vai além da confecção tradicional. É a arte de criar peças 
-              únicas, personalizadas e cheias de personalidade usando técnicas especiais e 
-              moldes exclusivos.
+              Afinal, a costura criativa vai além da confecção tradicional. Além disso, 
+              é a arte de criar peças únicas e personalizadas. Dessa forma, usando técnicas 
+              especiais e moldes exclusivos, consequentemente, você expressará sua 
+              personalidade em cada criação.
             </p>
 
             <h2 className="text-2xl font-bold mb-4">O Que é Costura Criativa?</h2>
             <p className="text-foreground/80 mb-6">
-              Costura criativa combina técnicas tradicionais de costura com elementos artísticos, 
-              permitindo criar peças exclusivas que expressam sua personalidade e estilo único.
+              Então, costura criativa combina técnicas tradicionais de costura com elementos 
+              artísticos. Portanto, permite criar peças exclusivas que expressam sua 
+              personalidade e estilo único. Ademais, não existem limites para a criatividade.
             </p>
 
             <div className="grid md:grid-cols-3 gap-6 mb-10">
@@ -56,7 +58,7 @@ const CosturaCriativa = () => {
                 <Sparkles className="w-10 h-10 text-primary mx-auto mb-4" />
                 <h3 className="text-xl font-semibold mb-2">Peças Únicas</h3>
                 <p className="text-muted-foreground">
-                  Crie roupas exclusivas que ninguém mais terá igual.
+                  Crie roupas exclusivas que ninguém mais terá igual. Do mesmo modo, valorize sua identidade.
                 </p>
               </div>
 
@@ -64,7 +66,7 @@ const CosturaCriativa = () => {
                 <Heart className="w-10 h-10 text-primary mx-auto mb-4" />
                 <h3 className="text-xl font-semibold mb-2">Personalização</h3>
                 <p className="text-muted-foreground">
-                  Adapte os moldes ao seu estilo e preferências pessoais.
+                  Adapte os moldes ao seu estilo e preferências pessoais. Em contrapartida, fuja do comum.
                 </p>
               </div>
 
@@ -72,34 +74,45 @@ const CosturaCriativa = () => {
                 <Palette className="w-10 h-10 text-primary mx-auto mb-4" />
                 <h3 className="text-xl font-semibold mb-2">Expressão Artística</h3>
                 <p className="text-muted-foreground">
-                  Transforme tecidos em verdadeiras obras de arte vestíveis.
+                  Transforme tecidos em verdadeiras obras de arte vestíveis. Assim, expresse-se livremente.
                 </p>
               </div>
             </div>
 
             <h2 className="text-2xl font-bold mb-4">Técnicas de Costura Criativa</h2>
+            <p className="text-muted-foreground mb-4">
+              Por consequência, ao dominar estas técnicas, você terá infinitas 
+              possibilidades. Todavia, a prática é fundamental para aperfeiçoamento.
+            </p>
             <ul className="space-y-3 mb-10">
               <li className="flex items-start gap-3">
                 <ArrowRight className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
-                <span>Patchwork e quilting para roupas</span>
+                <span>Patchwork e quilting para roupas, bem como acessórios</span>
               </li>
               <li className="flex items-start gap-3">
                 <ArrowRight className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
-                <span>Aplicações e bordados decorativos</span>
+                <span>Aplicações e bordados decorativos, ainda mais personalizados</span>
               </li>
               <li className="flex items-start gap-3">
                 <ArrowRight className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
-                <span>Combinação de tecidos diferentes</span>
+                <span>Combinação de tecidos diferentes, enfim, texturas únicas</span>
               </li>
               <li className="flex items-start gap-3">
                 <ArrowRight className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
-                <span>Recortes e modelagens diferenciadas</span>
+                <span>Recortes e modelagens diferenciadas, por último, inovação constante</span>
               </li>
               <li className="flex items-start gap-3">
                 <ArrowRight className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
-                <span>Tingimento e estamparia artesanal</span>
+                <span>Tingimento e estamparia artesanal, porque cada peça é única</span>
               </li>
             </ul>
+
+            <p className="text-muted-foreground mb-6">
+              No entanto, a costura criativa não exige experiência prévia. Por isso, 
+              nosso curso começa do básico. Em suma, qualquer pessoa pode aprender. 
+              Entretanto, a dedicação faz toda a diferença. Por outro lado, os 
+              resultados são extremamente gratificantes.
+            </p>
 
             <h2 className="text-2xl font-bold mb-4">Páginas Relacionadas</h2>
             <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
@@ -137,7 +150,8 @@ const CosturaCriativa = () => {
             >
               <h3 className="text-2xl font-bold mb-4">Liberte Sua Criatividade</h3>
               <p className="text-muted-foreground mb-6">
-                Aprenda técnicas profissionais para criar peças únicas e criativas.
+                Aprenda técnicas profissionais para criar peças únicas e criativas. 
+                Por fim, transforme sua paixão em arte vestível.
               </p>
               <a 
                 href="https://go.pepper.com.br/1xtll"

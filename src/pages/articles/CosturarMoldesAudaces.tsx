@@ -35,30 +35,39 @@ const CosturarMoldesAudaces = () => {
 
           <div className="prose prose-lg max-w-none text-foreground/90">
             <p className="text-xl text-muted-foreground mb-8">
-              Entenda como o Audaces transforma sua costura com moldes digitais precisos 
-              que facilitam o corte e a montagem das peças.
+              Afinal, entender como o Audaces transforma sua costura é fundamental. 
+              Além disso, moldes digitais precisos facilitam o corte e a montagem 
+              das peças. Consequentemente, você obtém resultados profissionais.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Moldes digitais vs moldes em papel</h2>
             <p>
-              Moldes feitos no <strong>Audaces</strong> são mais precisos, fáceis de armazenar 
-              e podem ser modificados rapidamente. Você imprime apenas quando precisa, 
-              economizando papel e espaço.
+              Então, moldes feitos no <strong>Audaces</strong> são mais precisos 
+              e fáceis de armazenar. Portanto, podem ser modificados rapidamente. 
+              Ademais, você imprime apenas quando precisa, economizando papel e espaço.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Vantagens para a costura</h2>
+            <p className="mb-4">
+              Por isso, os benefícios são claros. Do mesmo modo, cada vantagem 
+              impacta na qualidade do seu trabalho:
+            </p>
             <ul className="space-y-3 text-foreground/80">
-              <li>• Moldes com medidas exatas</li>
-              <li>• Fácil gradação para outros tamanhos</li>
-              <li>• Impressão em A4 ou plotter</li>
-              <li>• Marcações de piques e pences</li>
-              <li>• Informações técnicas no próprio molde</li>
+              <li>• Moldes com medidas exatas, bem como precisão milimétrica</li>
+              <li>• Fácil gradação para outros tamanhos, todavia automática</li>
+              <li>• Impressão em A4 ou plotter, ainda mais flexível</li>
+              <li>• Marcações de piques e pences, enfim, tudo incluído</li>
+              <li>• Informações técnicas no próprio molde, por último, profissionalismo</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Para quem é indicado</h2>
             <p>
-              Costureiras, modelistas, ateliês e confecções que buscam mais precisão 
-              e produtividade encontram no Audaces uma ferramenta essencial.
+              No entanto, o Audaces não é apenas para grandes empresas. Porque 
+              costureiras, modelistas, ateliês e confecções que buscam mais precisão 
+              e produtividade encontram no Audaces uma ferramenta essencial. 
+              Em suma, qualquer profissional pode se beneficiar. Por outro lado, 
+              o investimento se paga rapidamente. Entretanto, é preciso dedicar-se 
+              ao aprendizado.
             </p>
           </div>
 
@@ -70,7 +79,7 @@ const CosturarMoldesAudaces = () => {
               Aprenda a Criar Moldes Perfeitos
             </h3>
             <p className="text-muted-foreground mb-6">
-              Domine o Audaces no curso completo
+              Domine o Audaces no curso completo. Por fim, eleve sua costura ao próximo nível.
             </p>
             <Button 
               size="lg"

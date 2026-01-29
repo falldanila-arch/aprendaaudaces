@@ -35,29 +35,39 @@ const AudacesEconomizandoTecido = () => {
 
           <div className="prose prose-lg max-w-none text-foreground/90">
             <p className="text-xl text-muted-foreground mb-8">
-              Aprenda como o Audaces pode ajudar você a economizar tecido no encaixe de moldes, 
-              reduzindo desperdício e aumentando sua margem de lucro.
+              Afinal, aprender como o Audaces pode ajudar você a economizar tecido 
+              é fundamental. Além disso, você reduzirá desperdício e, consequentemente, 
+              aumentará sua margem de lucro significativamente.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Por que economizar tecido é essencial?</h2>
             <p>
-              O tecido representa um dos maiores custos na produção de roupas. Com o <strong>Audaces Encaixe</strong>, 
-              você consegue otimizar o posicionamento dos moldes no enfesto, aproveitando cada centímetro de material.
+              Então, o tecido representa um dos maiores custos na produção de roupas. 
+              Portanto, com o <strong>Audaces Encaixe</strong>, você consegue otimizar 
+              o posicionamento dos moldes no enfesto. Ademais, aproveita cada centímetro 
+              de material disponível.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Como o Audaces ajuda na economia</h2>
+            <p className="mb-4">
+              Por isso, o software oferece recursos poderosos. Do mesmo modo, cada 
+              funcionalidade contribui para a redução de custos:
+            </p>
             <ul className="space-y-3 text-foreground/80">
-              <li>• Encaixe automático e manual de moldes</li>
-              <li>• Cálculo preciso de consumo de tecido</li>
-              <li>• Mapa de risco para corte otimizado</li>
-              <li>• Visualização do aproveitamento em porcentagem</li>
-              <li>• Simulação de diferentes larguras de tecido</li>
+              <li>• Encaixe automático e manual de moldes, bem como comparação</li>
+              <li>• Cálculo preciso de consumo de tecido, todavia rápido</li>
+              <li>• Mapa de risco para corte otimizado, ainda mais visual</li>
+              <li>• Visualização do aproveitamento em porcentagem, enfim, clareza total</li>
+              <li>• Simulação de diferentes larguras de tecido, por último, flexibilidade</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Aprenda no Curso Audaces</h2>
             <p>
-              No nosso curso completo, você aprende a usar o Audaces Encaixe para maximizar o aproveitamento 
-              de tecido, criar mapas de risco profissionais e calcular consumo com precisão.
+              No entanto, economizar tecido é apenas o começo. Porque no nosso curso 
+              completo, você aprende a usar o Audaces Encaixe para maximizar o 
+              aproveitamento. Em suma, criará mapas de risco profissionais e calculará 
+              consumo com precisão. Por outro lado, também ensinamos técnicas avançadas. 
+              Entretanto, a prática é essencial para resultados consistentes.
             </p>
           </div>
 
@@ -69,7 +79,8 @@ const AudacesEconomizandoTecido = () => {
               Domine o Audaces Encaixe
             </h3>
             <p className="text-muted-foreground mb-6">
-              Aprenda todas as técnicas de economia de tecido no curso completo
+              Aprenda todas as técnicas de economia de tecido no curso completo. 
+              Por fim, aumente seus lucros.
             </p>
             <Button 
               size="lg"

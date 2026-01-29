@@ -35,30 +35,39 @@ const GradacaoMoldesAudaces = () => {
 
           <div className="prose prose-lg max-w-none text-foreground/90">
             <p className="text-xl text-muted-foreground mb-8">
-              Aprenda a gradar moldes no Audaces, criando todos os tamanhos 
-              da sua grade a partir de um único molde base.
+              Afinal, aprender a gradar moldes no Audaces é fundamental. Além disso, 
+              você criará todos os tamanhos da sua grade a partir de um único molde base. 
+              Consequentemente, economiza tempo e garante precisão.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">O que é gradação?</h2>
             <p>
-              A gradação é o processo de criar diferentes tamanhos de um molde. 
-              No <strong>Audaces</strong>, você faz isso automaticamente usando tabelas 
-              de medidas ou manualmente ponto a ponto.
+              Então, a gradação é o processo de criar diferentes tamanhos de um molde. 
+              Portanto, no <strong>Audaces</strong>, você faz isso automaticamente usando 
+              tabelas de medidas ou manualmente ponto a ponto. Ademais, o processo é 
+              muito mais rápido que o método tradicional.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Métodos de gradação</h2>
+            <p className="mb-4">
+              Por isso, o software oferece várias opções. Do mesmo modo, cada método 
+              atende a necessidades específicas:
+            </p>
             <ul className="space-y-3 text-foreground/80">
-              <li>• Gradação por tabela de medidas</li>
-              <li>• Gradação ponto a ponto</li>
-              <li>• Gradação por incrementos</li>
-              <li>• Cópia de gradação entre peças</li>
-              <li>• Verificação de sobreposição</li>
+              <li>• Gradação por tabela de medidas, bem como personalizada</li>
+              <li>• Gradação ponto a ponto, todavia com controle total</li>
+              <li>• Gradação por incrementos, ainda mais rápida</li>
+              <li>• Cópia de gradação entre peças, enfim, praticidade</li>
+              <li>• Verificação de sobreposição, por último, qualidade garantida</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Economia de tempo</h2>
             <p>
-              Com a gradação automática, você cria uma grade completa em minutos, 
-              não em horas como no método manual tradicional.
+              No entanto, a maior vantagem está na produtividade. Porque com a gradação 
+              automática, você cria uma grade completa em minutos. Em suma, não leva 
+              mais horas como no método manual tradicional. Por outro lado, a precisão 
+              é muito superior. Entretanto, é importante conhecer os fundamentos 
+              da gradação para obter melhores resultados.
             </p>
           </div>
 
@@ -70,7 +79,7 @@ const GradacaoMoldesAudaces = () => {
               Domine a Gradação
             </h3>
             <p className="text-muted-foreground mb-6">
-              Aprenda todas as técnicas no curso completo
+              Aprenda todas as técnicas no curso completo. Por fim, crie grades perfeitas.
             </p>
             <Button 
               size="lg"

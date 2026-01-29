@@ -35,29 +35,39 @@ const FaccaoCortesAudaces = () => {
 
           <div className="prose prose-lg max-w-none text-foreground/90">
             <p className="text-xl text-muted-foreground mb-8">
-              Como facções de costura podem trabalhar com arquivos e cortes 
-              gerados pelo Audaces de forma eficiente.
+              Afinal, entender como facções de costura podem trabalhar com arquivos 
+              e cortes gerados pelo Audaces é essencial. Além disso, isso representa 
+              um diferencial competitivo. Consequentemente, você conquista mais clientes.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">O padrão da indústria</h2>
             <p>
-              O <strong>Audaces</strong> é o software mais usado na indústria têxtil brasileira. 
-              Se você tem uma facção, saber interpretar arquivos Audaces é um diferencial competitivo.
+              Então, o <strong>Audaces</strong> é o software mais usado na indústria 
+              têxtil brasileira. Portanto, se você tem uma facção, saber interpretar 
+              arquivos Audaces é um diferencial competitivo. Ademais, abre portas 
+              para novos clientes.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Vantagens para facções</h2>
+            <p className="mb-4">
+              Por isso, conhecer o Audaces traz diversos benefícios. Do mesmo modo, 
+              cada vantagem impacta nos resultados:
+            </p>
             <ul className="space-y-3 text-foreground/80">
-              <li>• Conferir encaixes recebidos</li>
-              <li>• Verificar consumo de tecido</li>
-              <li>• Identificar problemas antes do corte</li>
-              <li>• Comunicação técnica com clientes</li>
-              <li>• Oferecer serviços de modelagem</li>
+              <li>• Conferir encaixes recebidos, bem como verificar qualidade</li>
+              <li>• Verificar consumo de tecido, todavia com precisão</li>
+              <li>• Identificar problemas antes do corte, ainda mais economia</li>
+              <li>• Comunicação técnica com clientes, enfim, profissionalismo</li>
+              <li>• Oferecer serviços de modelagem, por último, mais receita</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Amplie seus serviços</h2>
             <p>
-              Aprendendo Audaces, sua facção pode oferecer não apenas costura, 
-              mas também serviços de modelagem e encaixe, aumentando o faturamento.
+              No entanto, aprender Audaces vai além da interpretação de arquivos. 
+              Porque sua facção pode oferecer não apenas costura, mas também serviços 
+              de modelagem e encaixe. Em suma, aumenta significativamente o faturamento. 
+              Por outro lado, você se diferencia da concorrência. Entretanto, 
+              o conhecimento precisa ser aplicado na prática.
             </p>
           </div>
 
@@ -69,7 +79,7 @@ const FaccaoCortesAudaces = () => {
               Destaque sua Facção
             </h3>
             <p className="text-muted-foreground mb-6">
-              Aprenda Audaces e ofereça mais serviços
+              Aprenda Audaces e ofereça mais serviços. Por fim, aumente seu faturamento.
             </p>
             <Button 
               size="lg"

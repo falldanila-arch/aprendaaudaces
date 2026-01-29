@@ -35,29 +35,37 @@ const CriarMoldesAudaces = () => {
 
           <div className="prose prose-lg max-w-none text-foreground/90">
             <p className="text-xl text-muted-foreground mb-8">
-              Aprenda a criar moldes profissionais no Audaces, 
-              desde a base corporal até peças complexas.
+              Afinal, aprender a criar moldes profissionais no Audaces é essencial. 
+              Além disso, você dominará desde a base corporal até peças complexas. 
+              Consequentemente, terá autonomia total na criação.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Começando do zero</h2>
             <p>
-              No <strong>Audaces</strong>, você pode criar moldes usando medidas diretas 
-              ou a partir de bases pré-definidas. O curso ensina ambos os métodos.
+              Então, no <strong>Audaces</strong>, você pode criar moldes usando medidas 
+              diretas ou a partir de bases pré-definidas. Portanto, o curso ensina ambos 
+              os métodos. Ademais, você escolhe o que melhor se adapta às suas necessidades.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">O que você aprende</h2>
+            <p className="mb-4">
+              Por isso, o conteúdo é completo e abrangente. Do mesmo modo, cada 
+              técnica é ensinada de forma prática:
+            </p>
             <ul className="space-y-3 text-foreground/80">
-              <li>• Criar bases corporais femininas e infantis</li>
-              <li>• Desenhar moldes com ferramentas de precisão</li>
-              <li>• Adicionar pences, recortes e costuras</li>
-              <li>• Incluir margens de costura</li>
-              <li>• Criar informações técnicas</li>
+              <li>• Criar bases corporais femininas e infantis, bem como masculinas</li>
+              <li>• Desenhar moldes com ferramentas de precisão, todavia de forma simples</li>
+              <li>• Adicionar pences, recortes e costuras, ainda mais detalhados</li>
+              <li>• Incluir margens de costura, enfim, prontos para corte</li>
+              <li>• Criar informações técnicas, por último, profissionalismo total</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Moldes inclusos</h2>
             <p>
-              Você também recebe aproximadamente 50 moldes bases prontos para 
-              usar como ponto de partida para suas criações.
+              No entanto, você não precisa criar tudo do zero. Porque você também 
+              recebe aproximadamente 50 moldes bases prontos. Em suma, são pontos 
+              de partida para suas criações. Por outro lado, aceleram seu trabalho. 
+              Entretanto, aprender a criar do zero é fundamental para personalização.
             </p>
           </div>
 
@@ -69,7 +77,7 @@ const CriarMoldesAudaces = () => {
               Crie Moldes Profissionais
             </h3>
             <p className="text-muted-foreground mb-6">
-              Aprenda do zero no curso completo
+              Aprenda do zero no curso completo. Por fim, tenha autonomia total.
             </p>
             <Button 
               size="lg"

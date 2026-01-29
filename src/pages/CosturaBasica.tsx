@@ -37,46 +37,63 @@ const CosturaBasica = () => {
             </h1>
 
             <p className="text-muted-foreground text-lg mb-8">
-              A costura básica é o ponto de partida para qualquer pessoa que deseja aprender 
-              a costurar. Comece com costura em casa, domine costura e corte, e evolua para 
-              costura criativa e costura modinha.
+              Afinal, a costura básica é o ponto de partida para qualquer pessoa que 
+              deseja aprender a costurar. Além disso, ao começar com costura em casa, você 
+              também domina o costura e corte. Dessa forma, consequentemente, evolui para 
+              costura criativa e costura modinha com facilidade.
             </p>
 
             <h2 className="text-2xl font-bold mb-4">O Que Você Vai Aprender</h2>
+            <p className="text-muted-foreground mb-4">
+              Então, no nosso curso básico, você terá acesso a conteúdos 
+              fundamentais. Portanto, construirá uma base sólida.
+            </p>
             <div className="grid md:grid-cols-3 gap-4 mb-8">
               <div className="bg-card border border-border rounded-xl p-4 text-center">
                 <h3 className="font-semibold mb-2">Pontos Básicos</h3>
-                <p className="text-sm text-muted-foreground">Ponto reto, zigue-zague e overloque.</p>
+                <p className="text-sm text-muted-foreground">Ponto reto, zigue-zague e overloque. Ademais, essenciais para qualquer peça.</p>
               </div>
               <div className="bg-card border border-border rounded-xl p-4 text-center">
                 <h3 className="font-semibold mb-2">Uso da Máquina</h3>
-                <p className="text-sm text-muted-foreground">Configuração e manuseio correto.</p>
+                <p className="text-sm text-muted-foreground">Configuração e manuseio correto. Do mesmo modo, manutenção básica.</p>
               </div>
               <div className="bg-card border border-border rounded-xl p-4 text-center">
                 <h3 className="font-semibold mb-2">Primeiras Peças</h3>
-                <p className="text-sm text-muted-foreground">Projetos simples para praticar.</p>
+                <p className="text-sm text-muted-foreground">Projetos simples para praticar. Em contrapartida, resultados visíveis.</p>
               </div>
             </div>
 
             <h2 className="text-2xl font-bold mb-4">Evolução na Costura</h2>
+            <p className="text-muted-foreground mb-4">
+              Por consequência, ao dominar o básico, você poderá avançar. 
+              Todavia, cada etapa é importante no processo.
+            </p>
             <ul className="space-y-2 mb-8">
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura básica → Costura intermediária</span>
+                <span>Costura básica → Costura intermediária, bem como técnicas avançadas</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura criativa e personalização</span>
+                <span>Costura criativa e personalização, ainda mais liberdade criativa</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura modinha e tendências</span>
+                <span>Costura modinha e tendências, enfim, sempre atualizado</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura social e alta costura</span>
+                <span>Costura social e alta costura, por último, o nível profissional</span>
               </li>
             </ul>
+
+            <p className="text-muted-foreground mb-6">
+              No entanto, não se preocupe se você nunca costurou antes. Porque 
+              nosso método é pensado para iniciantes. Por isso, cada aula é 
+              clara e objetiva. Em suma, você aprenderá no seu ritmo. 
+              Entretanto, a dedicação fará a diferença. Por outro lado, 
+              oferecemos suporte para tirar dúvidas.
+            </p>
 
             <motion.div
               initial={{ opacity: 0, scale: 0.95 }}
@@ -86,7 +103,8 @@ const CosturaBasica = () => {
             >
               <h3 className="text-2xl font-bold mb-4">Comece do Zero</h3>
               <p className="text-muted-foreground mb-6">
-                Aprenda costura básica com aulas passo a passo para iniciantes.
+                Aprenda costura básica com aulas passo a passo para iniciantes. 
+                Por fim, dê o primeiro passo rumo à profissionalização.
               </p>
               <a href="https://go.pepper.com.br/1xtll" target="_blank" rel="noopener noreferrer">
                 <Button size="lg">

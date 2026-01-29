@@ -35,29 +35,38 @@ const ConstruirMoldesAudaces = () => {
 
           <div className="prose prose-lg max-w-none text-foreground/90">
             <p className="text-xl text-muted-foreground mb-8">
-              Domine as ferramentas de construção de moldes no Audaces 
-              e crie peças profissionais.
+              Afinal, dominar as ferramentas de construção de moldes no Audaces 
+              é essencial. Além disso, você criará peças profissionais com precisão. 
+              Consequentemente, terá resultados de alta qualidade.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Ferramentas de construção</h2>
             <p>
-              O <strong>Audaces</strong> oferece ferramentas poderosas para construir 
-              moldes com precisão: linhas, curvas, pontos de referência e muito mais.
+              Então, o <strong>Audaces</strong> oferece ferramentas poderosas para 
+              construir moldes com precisão. Portanto, linhas, curvas e pontos de 
+              referência estão disponíveis. Ademais, tudo funciona de forma integrada.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Recursos disponíveis</h2>
+            <p className="mb-4">
+              Por isso, você terá acesso a recursos profissionais. Do mesmo modo, 
+              cada ferramenta é ensinada de forma prática:
+            </p>
             <ul className="space-y-3 text-foreground/80">
-              <li>• Desenho com medidas exatas</li>
-              <li>• Curvas bezier para decotes</li>
-              <li>• Linhas perpendiculares e paralelas</li>
-              <li>• Espelhamento de peças</li>
-              <li>• União e separação de moldes</li>
+              <li>• Desenho com medidas exatas, bem como precisão milimétrica</li>
+              <li>• Curvas bezier para decotes, todavia de forma intuitiva</li>
+              <li>• Linhas perpendiculares e paralelas, ainda mais facilidade</li>
+              <li>• Espelhamento de peças, enfim, economia de tempo</li>
+              <li>• União e separação de moldes, por último, flexibilidade total</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Da base à peça final</h2>
             <p>
-              No curso, você aprende a partir de uma base corporal e transformá-la 
-              em qualquer tipo de peça: blusas, vestidos, saias e muito mais.
+              No entanto, construir moldes é apenas o começo. Porque no curso, você 
+              aprende a partir de uma base corporal e transformá-la em qualquer tipo 
+              de peça. Em suma, blusas, vestidos, saias e muito mais. Por outro lado, 
+              também ensinamos adaptações e customizações. Entretanto, a prática 
+              constante é fundamental para o domínio completo.
             </p>
           </div>
 
@@ -69,7 +78,7 @@ const ConstruirMoldesAudaces = () => {
               Construa Moldes Profissionais
             </h3>
             <p className="text-muted-foreground mb-6">
-              Domine todas as ferramentas no curso
+              Domine todas as ferramentas no curso. Por fim, crie qualquer peça.
             </p>
             <Button 
               size="lg"
