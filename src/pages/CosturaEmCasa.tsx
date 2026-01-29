@@ -37,46 +37,62 @@ const CosturaEmCasa = () => {
             </h1>
 
             <p className="text-muted-foreground text-lg mb-8">
-              Aprenda costura em casa e transforme seu lar em um ateliê. Domine técnicas de 
-              costura básica, costura criativa e corte e costura para produzir peças incríveis 
-              sem sair de casa.
+              Afinal, aprender costura em casa é uma excelente forma de transformar seu lar em um ateliê. 
+              Além disso, você pode dominar técnicas de costura básica e costura criativa. Dessa forma, 
+              consequentemente, produzirá peças incríveis sem sair de casa. Portanto, o corte e costura 
+              se torna acessível a todos.
             </p>
 
             <h2 className="text-2xl font-bold mb-4">Vantagens da Costura em Casa</h2>
+            <p className="text-muted-foreground mb-4">
+              Então, existem muitos benefícios em costurar no conforto do seu lar. 
+              Por isso, cada vez mais pessoas estão aderindo a essa prática.
+            </p>
             <div className="grid md:grid-cols-3 gap-4 mb-8">
               <div className="bg-card border border-border rounded-xl p-4 text-center">
                 <h3 className="font-semibold mb-2">Economia</h3>
-                <p className="text-sm text-muted-foreground">Produza roupas com menor custo.</p>
+                <p className="text-sm text-muted-foreground">Produza roupas com menor custo. Ademais, reutilize materiais.</p>
               </div>
               <div className="bg-card border border-border rounded-xl p-4 text-center">
                 <h3 className="font-semibold mb-2">Flexibilidade</h3>
-                <p className="text-sm text-muted-foreground">Costure no seu próprio ritmo.</p>
+                <p className="text-sm text-muted-foreground">Costure no seu próprio ritmo. Do mesmo modo, organize seus horários.</p>
               </div>
               <div className="bg-card border border-border rounded-xl p-4 text-center">
                 <h3 className="font-semibold mb-2">Personalização</h3>
-                <p className="text-sm text-muted-foreground">Crie peças únicas e exclusivas.</p>
+                <p className="text-sm text-muted-foreground">Crie peças únicas e exclusivas. Em contrapartida, fuja do comum.</p>
               </div>
             </div>
 
             <h2 className="text-2xl font-bold mb-4">O Que Você Vai Aprender</h2>
+            <p className="text-muted-foreground mb-4">
+              Assim, no nosso curso, você terá acesso a conteúdos práticos. 
+              Por consequência, aprenderá de forma rápida e eficiente.
+            </p>
             <ul className="space-y-2 mb-8">
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Montar seu espaço de costura em casa</span>
+                <span>Montar seu espaço de costura em casa, bem como organizar materiais</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Técnicas de costura básica e intermediária</span>
+                <span>Técnicas de costura básica e intermediária, todavia de forma simples</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura modinha e tendências atuais</span>
+                <span>Costura modinha e tendências atuais, ainda mais com moldes prontos</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura social para eventos especiais</span>
+                <span>Costura social para eventos especiais, enfim, para todas as ocasiões</span>
               </li>
             </ul>
+
+            <p className="text-muted-foreground mb-6">
+              No entanto, mesmo trabalhando em casa, você terá resultados profissionais. 
+              Porque nosso método ensina desde o básico. Entretanto, também abordamos técnicas 
+              avançadas. Em suma, você estará preparado para qualquer desafio. Por outro lado, 
+              o investimento é acessível.
+            </p>
 
             <motion.div
               initial={{ opacity: 0, scale: 0.95 }}
@@ -86,7 +102,8 @@ const CosturaEmCasa = () => {
             >
               <h3 className="text-2xl font-bold mb-4">Transforme Sua Casa em Ateliê</h3>
               <p className="text-muted-foreground mb-6">
-                Aprenda costura em casa com técnicas profissionais e comece a criar.
+                Aprenda costura em casa com técnicas profissionais. 
+                Por fim, comece a criar peças incríveis hoje mesmo.
               </p>
               <a href="https://go.pepper.com.br/1xtll" target="_blank" rel="noopener noreferrer">
                 <Button size="lg">

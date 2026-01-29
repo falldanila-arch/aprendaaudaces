@@ -35,30 +35,39 @@ const ConverterAudacesPDF = () => {
 
           <div className="prose prose-lg max-w-none text-foreground/90">
             <p className="text-xl text-muted-foreground mb-8">
-              Aprenda a exportar moldes do Audaces para PDF em A4, 
-              permitindo impressão em qualquer impressora comum.
+              Afinal, aprender a exportar moldes do Audaces para PDF em A4 é essencial. 
+              Além disso, isso permite impressão em qualquer impressora comum. 
+              Consequentemente, você alcança mais clientes.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Por que converter para PDF?</h2>
             <p>
-              O formato PDF permite que qualquer pessoa imprima seus moldes, 
-              mesmo sem ter o <strong>Audaces</strong> instalado. Ideal para vender 
-              moldes digitais ou compartilhar com clientes.
+              Então, o formato PDF permite que qualquer pessoa imprima seus moldes. 
+              Portanto, mesmo sem ter o <strong>Audaces</strong> instalado, seus clientes 
+              conseguem utilizar os moldes. Ademais, é ideal para vender moldes digitais 
+              ou compartilhar com clientes.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Opções de exportação</h2>
+            <p className="mb-4">
+              Por isso, o software oferece diversas opções. Do mesmo modo, cada uma 
+              atende a necessidades específicas:
+            </p>
             <ul className="space-y-3 text-foreground/80">
-              <li>• PDF em A4 com linhas de colagem</li>
-              <li>• PDF em tamanho real para plotter</li>
-              <li>• Exportação via CorelDRAW</li>
-              <li>• Múltiplas peças em um arquivo</li>
-              <li>• Incluir informações técnicas</li>
+              <li>• PDF em A4 com linhas de colagem, bem como marcações claras</li>
+              <li>• PDF em tamanho real para plotter, todavia sem emendas</li>
+              <li>• Exportação via CorelDRAW, ainda mais flexibilidade</li>
+              <li>• Múltiplas peças em um arquivo, enfim, organização total</li>
+              <li>• Incluir informações técnicas, por último, profissionalismo</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Venda moldes digitais</h2>
             <p>
-              Com moldes em PDF, você pode criar info-produtos e vender em 
-              marketplaces como Mercado Livre, Shopee e Elo7.
+              No entanto, converter para PDF é apenas o começo. Porque com moldes em 
+              PDF, você pode criar info-produtos lucrativos. Em suma, venda em marketplaces 
+              como Mercado Livre, Shopee e Elo7. Por outro lado, também pode criar sua 
+              própria loja virtual. Entretanto, a qualidade dos moldes é fundamental 
+              para o sucesso nas vendas.
             </p>
           </div>
 
@@ -70,7 +79,7 @@ const ConverterAudacesPDF = () => {
               Aprenda a Converter para PDF
             </h3>
             <p className="text-muted-foreground mb-6">
-              Domine a exportação no curso completo
+              Domine a exportação no curso completo. Por fim, monetize seus conhecimentos.
             </p>
             <Button 
               size="lg"

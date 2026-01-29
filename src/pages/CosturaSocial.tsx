@@ -37,46 +37,63 @@ const CosturaSocial = () => {
             </h1>
 
             <p className="text-muted-foreground text-lg mb-8">
-              A costura social é especializada em criar peças para ocasiões especiais. 
-              Aprenda técnicas de alta costura, costura alfaiataria e costura e design 
-              para confeccionar vestidos, ternos e trajes elegantes.
+              Afinal, a costura social é especializada em criar peças para ocasiões especiais. 
+              Além disso, ao aprender técnicas de alta costura e costura alfaiataria, você 
+              também domina o costura e design. Dessa forma, consequentemente, confeccionará 
+              vestidos, ternos e trajes elegantes com perfeição.
             </p>
 
             <h2 className="text-2xl font-bold mb-4">Tipos de Peças Sociais</h2>
+            <p className="text-muted-foreground mb-4">
+              Então, conheça as principais peças que você aprenderá a confeccionar. 
+              Portanto, prepare-se para criar verdadeiras obras de arte.
+            </p>
             <div className="grid md:grid-cols-3 gap-4 mb-8">
               <div className="bg-card border border-border rounded-xl p-4 text-center">
                 <h3 className="font-semibold mb-2">Vestidos de Festa</h3>
-                <p className="text-sm text-muted-foreground">Para formaturas, casamentos e galas.</p>
+                <p className="text-sm text-muted-foreground">Para formaturas, casamentos e galas. Ademais, com acabamento impecável.</p>
               </div>
               <div className="bg-card border border-border rounded-xl p-4 text-center">
                 <h3 className="font-semibold mb-2">Ternos e Blazers</h3>
-                <p className="text-sm text-muted-foreground">Costura alfaiataria profissional.</p>
+                <p className="text-sm text-muted-foreground">Costura alfaiataria profissional. Do mesmo modo, elegância masculina.</p>
               </div>
               <div className="bg-card border border-border rounded-xl p-4 text-center">
                 <h3 className="font-semibold mb-2">Trajes de Gala</h3>
-                <p className="text-sm text-muted-foreground">Alta costura para eventos especiais.</p>
+                <p className="text-sm text-muted-foreground">Alta costura para eventos especiais. Em contrapartida, exclusividade total.</p>
               </div>
             </div>
 
             <h2 className="text-2xl font-bold mb-4">Técnicas Essenciais</h2>
+            <p className="text-muted-foreground mb-4">
+              Por consequência, dominar estas técnicas é fundamental. Todavia, 
+              nosso método torna o aprendizado acessível.
+            </p>
             <ul className="space-y-2 mb-8">
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura criativa com detalhes exclusivos</span>
+                <span>Costura criativa com detalhes exclusivos, bem como bordados</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura modinha para tendências atuais</span>
+                <span>Costura modinha para tendências atuais, ainda mais elegantes</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Forros e estruturas internas</span>
+                <span>Forros e estruturas internas, enfim, a base da qualidade</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Acabamentos de luxo</span>
+                <span>Acabamentos de luxo, por último, o diferencial profissional</span>
               </li>
             </ul>
+
+            <p className="text-muted-foreground mb-6">
+              No entanto, a costura social vai além da técnica. Porque é preciso 
+              entender as necessidades do cliente. Por isso, ensinamos também 
+              atendimento personalizado. Em suma, você estará preparado para o mercado. 
+              Entretanto, a prática é essencial. Por outro lado, os resultados 
+              compensam todo o esforço.
+            </p>
 
             <motion.div
               initial={{ opacity: 0, scale: 0.95 }}
@@ -86,7 +103,8 @@ const CosturaSocial = () => {
             >
               <h3 className="text-2xl font-bold mb-4">Crie Peças Elegantes</h3>
               <p className="text-muted-foreground mb-6">
-                Aprenda costura social e confeccione roupas para as ocasiões mais especiais.
+                Aprenda costura social e confeccione roupas para as ocasiões mais especiais. 
+                Por fim, encante seus clientes.
               </p>
               <a href="https://go.pepper.com.br/1xtll" target="_blank" rel="noopener noreferrer">
                 <Button size="lg">

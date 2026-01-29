@@ -35,30 +35,39 @@ const MoldesDigitaisSublimacao = () => {
 
           <div className="prose prose-lg max-w-none text-foreground/90">
             <p className="text-xl text-muted-foreground mb-8">
-              Descubra como exportar moldes do Audaces para usar em sublimação, 
-              criando peças personalizadas com encaixe perfeito.
+              Afinal, descobrir como exportar moldes do Audaces para sublimação é essencial. 
+              Além disso, você criará peças personalizadas com encaixe perfeito. 
+              Consequentemente, a qualidade final será impecável.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Audaces e Sublimação</h2>
             <p>
-              A sublimação exige moldes precisos para que a estampa se alinhe perfeitamente com o corte da peça. 
-              Com o <strong>Audaces</strong>, você cria moldes digitais que podem ser exportados para CorelDRAW 
-              e outros softwares de design.
+              Então, a sublimação exige moldes precisos para que a estampa se alinhe 
+              perfeitamente com o corte da peça. Portanto, com o <strong>Audaces</strong>, 
+              você cria moldes digitais que podem ser exportados para CorelDRAW e outros 
+              softwares de design. Ademais, a integração é perfeita.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Vantagens do molde digital</h2>
+            <p className="mb-4">
+              Por isso, as vantagens são inúmeras. Do mesmo modo, cada benefício 
+              impacta na qualidade final:
+            </p>
             <ul className="space-y-3 text-foreground/80">
-              <li>• Precisão milimétrica no encaixe da estampa</li>
-              <li>• Exportação para CorelDRAW e Illustrator</li>
-              <li>• Moldes em PDF para conferência</li>
-              <li>• Economia de tecido sublimado</li>
-              <li>• Padronização da produção</li>
+              <li>• Precisão milimétrica no encaixe da estampa, bem como alinhamento</li>
+              <li>• Exportação para CorelDRAW e Illustrator, todavia simples</li>
+              <li>• Moldes em PDF para conferência, ainda mais praticidade</li>
+              <li>• Economia de tecido sublimado, enfim, redução de custos</li>
+              <li>• Padronização da produção, por último, qualidade consistente</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Como exportar do Audaces</h2>
             <p>
-              No curso, você aprende a exportar moldes do Audaces para formatos compatíveis com 
-              impressoras de sublimação, garantindo que cada peça saia perfeita.
+              No entanto, a exportação precisa ser feita corretamente. Porque no curso, 
+              você aprende a exportar moldes do Audaces para formatos compatíveis com 
+              impressoras de sublimação. Em suma, garante que cada peça saia perfeita. 
+              Por outro lado, também ensinamos ajustes de margens e sangrias. Entretanto, 
+              a prática é fundamental para dominar o processo.
             </p>
           </div>
 
@@ -70,7 +79,8 @@ const MoldesDigitaisSublimacao = () => {
               Aprenda Moldes para Sublimação
             </h3>
             <p className="text-muted-foreground mb-6">
-              Domine a exportação de moldes digitais no curso completo
+              Domine a exportação de moldes digitais no curso completo. Por fim, 
+              crie peças sublimadas perfeitas.
             </p>
             <Button 
               size="lg"

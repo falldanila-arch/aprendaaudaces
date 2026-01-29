@@ -37,46 +37,63 @@ const CosturaEDesign = () => {
             </h1>
 
             <p className="text-muted-foreground text-lg mb-8">
-              A união de costura e design permite criar peças únicas e autorais. Aprenda 
-              costura criativa, alta costura e costura modinha para desenvolver coleções 
-              exclusivas com identidade própria.
+              Afinal, a união de costura e design permite criar peças únicas e autorais. 
+              Além disso, ao aprender costura criativa e alta costura, você também 
+              desenvolve a costura modinha. Dessa forma, consequentemente, suas coleções 
+              exclusivas terão identidade própria.
             </p>
 
             <h2 className="text-2xl font-bold mb-4">Design de Moda</h2>
+            <p className="text-muted-foreground mb-4">
+              Então, entenda o processo criativo completo. Portanto, da ideia 
+              à peça final, você dominará cada etapa.
+            </p>
             <div className="grid md:grid-cols-3 gap-4 mb-8">
               <div className="bg-card border border-border rounded-xl p-4 text-center">
                 <h3 className="font-semibold mb-2">Criação</h3>
-                <p className="text-sm text-muted-foreground">Desenvolva seus próprios modelos.</p>
+                <p className="text-sm text-muted-foreground">Desenvolva seus próprios modelos. Ademais, expresse sua visão.</p>
               </div>
               <div className="bg-card border border-border rounded-xl p-4 text-center">
                 <h3 className="font-semibold mb-2">Modelagem</h3>
-                <p className="text-sm text-muted-foreground">Transforme ideias em moldes.</p>
+                <p className="text-sm text-muted-foreground">Transforme ideias em moldes. Do mesmo modo, com precisão técnica.</p>
               </div>
               <div className="bg-card border border-border rounded-xl p-4 text-center">
                 <h3 className="font-semibold mb-2">Execução</h3>
-                <p className="text-sm text-muted-foreground">Costura criativa profissional.</p>
+                <p className="text-sm text-muted-foreground">Costura criativa profissional. Em contrapartida, qualidade garantida.</p>
               </div>
             </div>
 
             <h2 className="text-2xl font-bold mb-4">Áreas do Design de Moda</h2>
+            <p className="text-muted-foreground mb-4">
+              Por consequência, ao dominar o design, você poderá atuar em 
+              diversas áreas. Todavia, cada uma tem suas características.
+            </p>
             <ul className="space-y-2 mb-8">
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Alta costura e peças exclusivas</span>
+                <span>Alta costura e peças exclusivas, bem como sob medida</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura modinha e fast fashion</span>
+                <span>Costura modinha e fast fashion, ainda mais acessível</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura social e eventos</span>
+                <span>Costura social e eventos, enfim, elegância para ocasiões</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura alfaiataria e tailoring</span>
+                <span>Costura alfaiataria e tailoring, por último, refinamento máximo</span>
               </li>
             </ul>
+
+            <p className="text-muted-foreground mb-6">
+              No entanto, ser designer de moda vai além da técnica. Porque 
+              exige visão criativa e conhecimento de mercado. Por isso, nosso 
+              curso aborda também tendências e comercialização. Em suma, você 
+              estará preparado para empreender. Entretanto, a paixão pela moda 
+              é o diferencial. Por outro lado, as oportunidades são inúmeras.
+            </p>
 
             <motion.div
               initial={{ opacity: 0, scale: 0.95 }}
@@ -86,7 +103,8 @@ const CosturaEDesign = () => {
             >
               <h3 className="text-2xl font-bold mb-4">Seja um Designer</h3>
               <p className="text-muted-foreground mb-6">
-                Aprenda costura e design para criar sua própria marca de moda.
+                Aprenda costura e design para criar sua própria marca de moda. 
+                Por fim, transforme sua criatividade em negócio.
               </p>
               <a href="https://go.pepper.com.br/1xtll" target="_blank" rel="noopener noreferrer">
                 <Button size="lg">

@@ -35,29 +35,37 @@ const MoldesTabelaMedidas = () => {
 
           <div className="prose prose-lg max-w-none text-foreground/90">
             <p className="text-xl text-muted-foreground mb-8">
-              Aprenda a criar moldes baseados em tabelas de medidas 
-              padronizadas ou personalizadas.
+              Afinal, aprender a criar moldes baseados em tabelas de medidas 
+              padronizadas ou personalizadas é fundamental. Além disso, dessa forma 
+              você garante precisão em todas as suas peças.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Tabelas de medidas</h2>
             <p>
               No <strong>Audaces</strong>, você pode criar tabelas de medidas próprias 
-              ou usar padrões da indústria para criar moldes com tamanhos consistentes.
+              ou usar padrões da indústria. Portanto, consequentemente, seus moldes 
+              terão tamanhos consistentes. Ademais, isso facilita a gradação automática.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Vantagens</h2>
+            <p className="mb-4">
+              Então, ao utilizar tabelas de medidas, você obtém diversos benefícios. 
+              Por isso, veja os principais:
+            </p>
             <ul className="space-y-3 text-foreground/80">
-              <li>• Padronização de tamanhos</li>
-              <li>• Gradação automática</li>
-              <li>• Moldes sob medida para clientes</li>
-              <li>• Consistência na produção</li>
-              <li>• Fácil ajuste de proporções</li>
+              <li>• Padronização de tamanhos, bem como uniformidade na produção</li>
+              <li>• Gradação automática, do mesmo modo com precisão</li>
+              <li>• Moldes sob medida para clientes, todavia sem complicações</li>
+              <li>• Consistência na produção, enfim, qualidade garantida</li>
+              <li>• Fácil ajuste de proporções, por último, flexibilidade total</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Tabelas inclusas</h2>
             <p>
-              O curso inclui tabelas de medidas de todos os gêneros (feminino, 
-              masculino, infantil) prontas para uso.
+              No entanto, você não precisa criar tudo do zero. Porque o curso inclui 
+              tabelas de medidas de todos os gêneros (feminino, masculino, infantil) 
+              prontas para uso. Em suma, economize tempo e comece a produzir imediatamente. 
+              Por outro lado, também ensinamos a criar tabelas personalizadas.
             </p>
           </div>
 
@@ -69,7 +77,7 @@ const MoldesTabelaMedidas = () => {
               Receba Tabelas de Medidas
             </h3>
             <p className="text-muted-foreground mb-6">
-              Tabelas inclusas no curso completo
+              Tabelas inclusas no curso completo. Por fim, comece a criar hoje mesmo.
             </p>
             <Button 
               size="lg"

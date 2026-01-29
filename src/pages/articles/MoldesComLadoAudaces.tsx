@@ -35,29 +35,37 @@ const MoldesComLadoAudaces = () => {
 
           <div className="prose prose-lg max-w-none text-foreground/90">
             <p className="text-xl text-muted-foreground mb-8">
-              Entenda como configurar moldes com lado direito e esquerdo 
-              no Audaces para encaixe correto.
+              Afinal, entender como configurar moldes com lado direito e esquerdo 
+              no Audaces é essencial. Além disso, dessa forma você garante o encaixe 
+              correto de todas as peças.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Peças assimétricas</h2>
             <p>
-              Algumas peças, como bolsos e mangas, não são simétricas e precisam 
-              ser cortadas em pares espelhados. O <strong>Audaces</strong> gerencia isso automaticamente.
+              Então, algumas peças, como bolsos e mangas, não são simétricas. Portanto, 
+              precisam ser cortadas em pares espelhados. Consequentemente, o <strong>Audaces</strong> 
+              gerencia isso automaticamente. Ademais, evita erros no processo de corte.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Configurações disponíveis</h2>
+            <p className="mb-4">
+              Por isso, o software oferece diversas opções. Do mesmo modo, cada uma 
+              atende a necessidades específicas:
+            </p>
             <ul className="space-y-3 text-foreground/80">
-              <li>• Par simétrico (espelhado)</li>
-              <li>• Par assimétrico</li>
-              <li>• Peça única</li>
-              <li>• Cortar na dobra</li>
-              <li>• Definir lado do avesso</li>
+              <li>• Par simétrico (espelhado), bem como economia de tempo</li>
+              <li>• Par assimétrico, todavia com precisão</li>
+              <li>• Peça única, ainda mais rápido</li>
+              <li>• Cortar na dobra, enfim, praticidade total</li>
+              <li>• Definir lado do avesso, por último, organização completa</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Evite erros no corte</h2>
             <p>
-              Com as configurações corretas, você evita cortar duas peças do mesmo lado 
-              ou esquecer de espelhar moldes que precisam ser em par.
+              No entanto, sem as configurações corretas, erros podem acontecer. Porque 
+              você pode cortar duas peças do mesmo lado ou esquecer de espelhar moldes. 
+              Em suma, as configurações do Audaces previnem esses problemas. Por outro lado, 
+              também agilizam a produção. Entretanto, é preciso aprender a usar corretamente.
             </p>
           </div>
 
@@ -69,7 +77,7 @@ const MoldesComLadoAudaces = () => {
               Configure Moldes Corretamente
             </h3>
             <p className="text-muted-foreground mb-6">
-              Aprenda no curso completo
+              Aprenda no curso completo. Por fim, elimine erros de produção.
             </p>
             <Button 
               size="lg"

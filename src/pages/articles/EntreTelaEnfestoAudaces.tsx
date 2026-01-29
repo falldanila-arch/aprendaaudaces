@@ -35,29 +35,38 @@ const EntreTelaEnfestoAudaces = () => {
 
           <div className="prose prose-lg max-w-none text-foreground/90">
             <p className="text-xl text-muted-foreground mb-8">
-              Aprenda a planejar o corte de entretela junto com o tecido principal 
-              usando o Audaces.
+              Afinal, aprender a planejar o corte de entretela junto com o tecido 
+              principal é fundamental. Além disso, usando o Audaces, consequentemente 
+              você otimiza o uso desse material importante.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Organizando entretela</h2>
             <p>
-              No <strong>Audaces</strong>, você pode criar encaixes separados para entretela, 
-              otimizando o uso desse material que geralmente tem largura diferente do tecido.
+              Então, no <strong>Audaces</strong>, você pode criar encaixes separados 
+              para entretela. Portanto, otimiza o uso desse material que geralmente 
+              tem largura diferente do tecido. Ademais, evita desperdícios desnecessários.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Como trabalhar</h2>
+            <p className="mb-4">
+              Por isso, o processo é organizado e eficiente. Do mesmo modo, cada 
+              etapa é clara e objetiva:
+            </p>
             <ul className="space-y-3 text-foreground/80">
-              <li>• Identificar peças que levam entretela</li>
-              <li>• Criar encaixe separado</li>
-              <li>• Configurar largura da entretela</li>
-              <li>• Calcular consumo específico</li>
-              <li>• Gerar mapa de corte</li>
+              <li>• Identificar peças que levam entretela, bem como quantidades</li>
+              <li>• Criar encaixe separado, todavia integrado ao projeto</li>
+              <li>• Configurar largura da entretela, ainda mais precisão</li>
+              <li>• Calcular consumo específico, enfim, sem desperdício</li>
+              <li>• Gerar mapa de corte, por último, pronto para produção</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Produção organizada</h2>
             <p>
-              Com encaixes separados para cada material, sua produção fica mais 
-              organizada e você evita desperdício de entretela.
+              No entanto, a organização vai além do software. Porque com encaixes 
+              separados para cada material, sua produção fica mais eficiente. 
+              Em suma, você evita desperdício de entretela e otimiza custos. 
+              Por outro lado, também ganha tempo na confecção. Entretanto, a 
+              prática é essencial para dominar o processo.
             </p>
           </div>
 
@@ -69,7 +78,7 @@ const EntreTelaEnfestoAudaces = () => {
               Organize sua Produção
             </h3>
             <p className="text-muted-foreground mb-6">
-              Aprenda técnicas profissionais no curso
+              Aprenda técnicas profissionais no curso. Por fim, maximize sua eficiência.
             </p>
             <Button 
               size="lg"

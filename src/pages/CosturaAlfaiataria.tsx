@@ -37,50 +37,67 @@ const CosturaAlfaiataria = () => {
             </h1>
 
             <p className="text-muted-foreground text-lg mb-8">
-              A costura alfaiataria é uma especialidade refinada que envolve técnicas de 
-              alta costura para criar ternos, blazers e peças estruturadas. Aprenda costura 
+              Afinal, a costura alfaiataria é uma especialidade refinada que envolve 
+              técnicas de alta costura. Além disso, você aprende a criar ternos, blazers 
+              e peças estruturadas. Dessa forma, consequentemente, domina também a costura 
               social e costura e corte profissional com acabamento impecável.
             </p>
 
             <h2 className="text-2xl font-bold mb-4">Peças de Alfaiataria</h2>
+            <p className="text-muted-foreground mb-4">
+              Então, conheça as principais peças que um alfaiate profissional 
+              domina. Portanto, cada uma tem suas particularidades.
+            </p>
             <div className="grid md:grid-cols-2 gap-4 mb-8">
               <div className="bg-card border border-border rounded-xl p-4">
                 <h3 className="font-semibold mb-2">Ternos Completos</h3>
-                <p className="text-sm text-muted-foreground">Paletó, calça e colete sob medida.</p>
+                <p className="text-sm text-muted-foreground">Paletó, calça e colete sob medida. Ademais, personalização total.</p>
               </div>
               <div className="bg-card border border-border rounded-xl p-4">
                 <h3 className="font-semibold mb-2">Blazers</h3>
-                <p className="text-sm text-muted-foreground">Peças versáteis para ocasiões diversas.</p>
+                <p className="text-sm text-muted-foreground">Peças versáteis para ocasiões diversas. Do mesmo modo, elegantes.</p>
               </div>
               <div className="bg-card border border-border rounded-xl p-4">
                 <h3 className="font-semibold mb-2">Calças Sociais</h3>
-                <p className="text-sm text-muted-foreground">Corte e caimento perfeitos.</p>
+                <p className="text-sm text-muted-foreground">Corte e caimento perfeitos. Em contrapartida, conforto garantido.</p>
               </div>
               <div className="bg-card border border-border rounded-xl p-4">
                 <h3 className="font-semibold mb-2">Coletes</h3>
-                <p className="text-sm text-muted-foreground">Elegância e sofisticação.</p>
+                <p className="text-sm text-muted-foreground">Elegância e sofisticação. Assim, complete o traje com estilo.</p>
               </div>
             </div>
 
             <h2 className="text-2xl font-bold mb-4">Técnicas de Alfaiataria</h2>
+            <p className="text-muted-foreground mb-4">
+              Por consequência, estas técnicas são fundamentais para o sucesso. 
+              Todavia, nosso curso facilita o aprendizado.
+            </p>
             <ul className="space-y-2 mb-8">
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura e corte de lapelas e golas</span>
+                <span>Costura e corte de lapelas e golas, bem como colarinhos</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Entretelas e estruturação</span>
+                <span>Entretelas e estruturação, ainda mais importantes para a forma</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura e design de bolsos</span>
+                <span>Costura e design de bolsos, enfim, detalhes que fazem a diferença</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Acabamentos internos e externos</span>
+                <span>Acabamentos internos e externos, por último, a qualidade visível</span>
               </li>
             </ul>
+
+            <p className="text-muted-foreground mb-6">
+              No entanto, a alfaiataria exige precisão e paciência. Porque cada 
+              detalhe importa no resultado final. Por isso, nosso curso é detalhado 
+              e prático. Em suma, você aprenderá desde a costura básica até técnicas 
+              avançadas. Entretanto, a prática constante é essencial. Por outro lado, 
+              o mercado valoriza muito esses profissionais.
+            </p>
 
             <motion.div
               initial={{ opacity: 0, scale: 0.95 }}
@@ -90,7 +107,8 @@ const CosturaAlfaiataria = () => {
             >
               <h3 className="text-2xl font-bold mb-4">Torne-se um Alfaiate</h3>
               <p className="text-muted-foreground mb-6">
-                Aprenda costura alfaiataria e domine a arte de criar ternos perfeitos.
+                Aprenda costura alfaiataria e domine a arte de criar ternos perfeitos. 
+                Por fim, destaque-se no mercado de moda masculina.
               </p>
               <a href="https://go.pepper.com.br/1xtll" target="_blank" rel="noopener noreferrer">
                 <Button size="lg">

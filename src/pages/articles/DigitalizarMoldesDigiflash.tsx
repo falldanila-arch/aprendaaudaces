@@ -35,30 +35,36 @@ const DigitalizarMoldesDigiflash = () => {
 
           <div className="prose prose-lg max-w-none text-foreground/90">
             <p className="text-xl text-muted-foreground mb-8">
-              Transforme seus moldes em papel em arquivos digitais 
-              usando o Audaces DigiFlash.
+              Afinal, transformar seus moldes em papel em arquivos digitais é essencial. 
+              Além disso, usando o Audaces DigiFlash, consequentemente você preserva 
+              e moderniza todo seu acervo de moldes.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">O que é DigiFlash?</h2>
             <p>
-              O <strong>Audaces DigiFlash</strong> é uma ferramenta que permite digitalizar 
-              moldes físicos fotografando-os, convertendo-os em arquivos editáveis no Audaces.
+              Então, o <strong>Audaces DigiFlash</strong> é uma ferramenta que permite 
+              digitalizar moldes físicos fotografando-os. Portanto, converte-os em arquivos 
+              editáveis no Audaces. Ademais, o processo é simples e eficiente.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Como funciona</h2>
+            <p className="mb-4">
+              Por isso, o processo é intuitivo. Do mesmo modo, cada etapa é clara:
+            </p>
             <ul className="space-y-3 text-foreground/80">
-              <li>• Fotografe o molde com referências</li>
-              <li>• Importe a foto no DigiFlash</li>
-              <li>• Trace o contorno automaticamente</li>
-              <li>• Ajuste e exporte para o Audaces</li>
-              <li>• Edite como qualquer molde digital</li>
+              <li>• Fotografe o molde com referências, bem como boa iluminação</li>
+              <li>• Importe a foto no DigiFlash, todavia com qualidade</li>
+              <li>• Trace o contorno automaticamente, ainda mais rápido</li>
+              <li>• Ajuste e exporte para o Audaces, enfim, pronto para usar</li>
+              <li>• Edite como qualquer molde digital, por último, total flexibilidade</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Importante saber</h2>
             <p className="bg-muted/50 p-4 rounded-lg border border-border">
-              O DigiFlash não instala em qualquer computador ou sistema operacional. 
-              Funciona de forma mais confiável apenas no Windows XP. O suporte é 
-              exclusivamente via mensagens no WhatsApp, sem acesso remoto.
+              No entanto, o DigiFlash não instala em qualquer computador ou sistema operacional. 
+              Porque funciona de forma mais confiável apenas no Windows XP. Em suma, 
+              o suporte é exclusivamente via mensagens no WhatsApp, sem acesso remoto. 
+              Por outro lado, as aulas mostram todo o processo detalhadamente.
             </p>
           </div>
 
@@ -70,7 +76,7 @@ const DigitalizarMoldesDigiflash = () => {
               Aprenda DigiFlash
             </h3>
             <p className="text-muted-foreground mb-6">
-              O curso inclui aulas sobre digitalização
+              O curso inclui aulas sobre digitalização. Por fim, digitalize todos seus moldes.
             </p>
             <Button 
               size="lg"

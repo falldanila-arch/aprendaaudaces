@@ -37,50 +37,66 @@ const AltaCostura = () => {
             </h1>
 
             <p className="text-muted-foreground text-lg mb-8">
-              A alta costura representa o ápice da moda. Aprenda técnicas refinadas de 
-              costura alfaiataria, costura social e costura e design para criar peças 
-              exclusivas com acabamento impecável.
+              Afinal, a alta costura representa o ápice da moda. Além disso, ao aprender 
+              técnicas refinadas de costura alfaiataria, você também domina a costura social 
+              e costura e design. Dessa forma, consequentemente, criará peças exclusivas 
+              com acabamento impecável.
             </p>
 
             <h2 className="text-2xl font-bold mb-4">Características da Alta Costura</h2>
+            <p className="text-muted-foreground mb-4">
+              Então, o que diferencia a alta costura das demais técnicas? Portanto, 
+              veja os elementos essenciais que a tornam especial.
+            </p>
             <div className="grid md:grid-cols-2 gap-4 mb-8">
               <div className="bg-card border border-border rounded-xl p-4">
                 <h3 className="font-semibold mb-2">Exclusividade</h3>
-                <p className="text-sm text-muted-foreground">Peças únicas feitas sob medida.</p>
+                <p className="text-sm text-muted-foreground">Peças únicas feitas sob medida. Ademais, cada criação é especial.</p>
               </div>
               <div className="bg-card border border-border rounded-xl p-4">
                 <h3 className="font-semibold mb-2">Materiais Nobres</h3>
-                <p className="text-sm text-muted-foreground">Tecidos e aviamentos de alta qualidade.</p>
+                <p className="text-sm text-muted-foreground">Tecidos e aviamentos de alta qualidade. Do mesmo modo, duráveis e elegantes.</p>
               </div>
               <div className="bg-card border border-border rounded-xl p-4">
                 <h3 className="font-semibold mb-2">Acabamento Perfeito</h3>
-                <p className="text-sm text-muted-foreground">Detalhes refinados e costuras impecáveis.</p>
+                <p className="text-sm text-muted-foreground">Detalhes refinados e costuras impecáveis. Em contrapartida, exige dedicação.</p>
               </div>
               <div className="bg-card border border-border rounded-xl p-4">
                 <h3 className="font-semibold mb-2">Design Exclusivo</h3>
-                <p className="text-sm text-muted-foreground">Costura criativa com estilo único.</p>
+                <p className="text-sm text-muted-foreground">Costura criativa com estilo único. Assim, destaque-se no mercado.</p>
               </div>
             </div>
 
             <h2 className="text-2xl font-bold mb-4">Técnicas Avançadas</h2>
+            <p className="text-muted-foreground mb-4">
+              Por consequência, ao dominar estas técnicas, você alcançará outro patamar. 
+              Todavia, é necessário praticar constantemente.
+            </p>
             <ul className="space-y-2 mb-8">
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura alfaiataria para ternos e blazers</span>
+                <span>Costura alfaiataria para ternos e blazers, bem como coletes</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura social para vestidos de festa</span>
+                <span>Costura social para vestidos de festa, ainda mais elegantes</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Costura e corte no viés</span>
+                <span>Costura e corte no viés, enfim, para caimentos perfeitos</span>
               </li>
               <li className="flex items-start gap-2">
                 <ArrowRight className="w-5 h-5 text-primary mt-1" />
-                <span>Bordados e aplicações de luxo</span>
+                <span>Bordados e aplicações de luxo, por último, os detalhes finais</span>
               </li>
             </ul>
+
+            <p className="text-muted-foreground mb-6">
+              No entanto, a alta costura não é apenas sobre técnica. Porque envolve também 
+              criatividade e visão artística. Por isso, nosso curso aborda ambos os aspectos. 
+              Em suma, você se tornará um profissional completo. Entretanto, o caminho 
+              exige dedicação. Por outro lado, os resultados são extraordinários.
+            </p>
 
             <motion.div
               initial={{ opacity: 0, scale: 0.95 }}
@@ -90,7 +106,8 @@ const AltaCostura = () => {
             >
               <h3 className="text-2xl font-bold mb-4">Entre no Mundo da Alta Costura</h3>
               <p className="text-muted-foreground mb-6">
-                Aprenda técnicas de alta costura e eleve seu trabalho ao nível profissional.
+                Aprenda técnicas de alta costura e eleve seu trabalho ao nível profissional. 
+                Por fim, crie peças dignas das passarelas.
               </p>
               <a href="https://go.pepper.com.br/1xtll" target="_blank" rel="noopener noreferrer">
                 <Button size="lg">

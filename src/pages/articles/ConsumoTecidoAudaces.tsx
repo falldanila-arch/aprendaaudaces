@@ -35,29 +35,37 @@ const ConsumoTecidoAudaces = () => {
 
           <div className="prose prose-lg max-w-none text-foreground/90">
             <p className="text-xl text-muted-foreground mb-8">
-              Calcule com precisão quanto tecido você precisa para cada peça 
-              usando as ferramentas do Audaces.
+              Afinal, calcular com precisão quanto tecido você precisa para cada peça 
+              é fundamental. Além disso, usando as ferramentas do Audaces, consequentemente 
+              você otimiza custos e evita desperdícios.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Cálculo preciso</h2>
             <p>
-              O <strong>Audaces</strong> calcula automaticamente o consumo de tecido 
-              baseado no encaixe dos moldes, considerando diferentes larguras de tecido.
+              Então, o <strong>Audaces</strong> calcula automaticamente o consumo de tecido 
+              baseado no encaixe dos moldes. Portanto, considera diferentes larguras de tecido. 
+              Ademais, isso permite comparar opções e escolher a mais econômica.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Informações geradas</h2>
+            <p className="mb-4">
+              Por isso, o software fornece dados completos. Do mesmo modo, facilita 
+              a tomada de decisões:
+            </p>
             <ul className="space-y-3 text-foreground/80">
-              <li>• Metragem total necessária</li>
-              <li>• Aproveitamento em porcentagem</li>
-              <li>• Consumo por peça individual</li>
-              <li>• Comparativo entre larguras</li>
-              <li>• Relatório de custos</li>
+              <li>• Metragem total necessária, bem como custo estimado</li>
+              <li>• Aproveitamento em porcentagem, todavia de forma visual</li>
+              <li>• Consumo por peça individual, ainda mais detalhado</li>
+              <li>• Comparativo entre larguras, enfim, para melhor escolha</li>
+              <li>• Relatório de custos, por último, para precificação</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-foreground mt-10 mb-4">Planilha de custos</h2>
             <p>
-              O curso inclui uma planilha de gastos de tecido para você calcular 
-              custos e definir preços de venda com margem adequada.
+              No entanto, o cálculo de tecido é apenas o começo. Porque o curso inclui 
+              uma planilha de gastos completa. Em suma, você calculará custos e definirá 
+              preços de venda com margem adequada. Por outro lado, também ensinamos a 
+              negociar com fornecedores. Entretanto, a prática é essencial.
             </p>
           </div>
 
@@ -69,7 +77,7 @@ const ConsumoTecidoAudaces = () => {
               Calcule Custos com Precisão
             </h3>
             <p className="text-muted-foreground mb-6">
-              Aprenda no curso completo + planilha inclusa
+              Aprenda no curso completo + planilha inclusa. Por fim, maximize seus lucros.
             </p>
             <Button 
               size="lg"
