@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
-import { CheckCircle2, Clock, Download, Users, Video, Award } from "lucide-react";
+import { CheckCircle2, Clock, Download, Users, Video, Award, ShieldCheck } from "lucide-react";
+import { Link } from "react-router-dom";
 
 const benefits = [
   {
