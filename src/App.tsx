@@ -63,6 +63,7 @@ import MoldesTabelaMedidas from "./pages/articles/MoldesTabelaMedidas";
 import GabaritoBolsoAudaces from "./pages/articles/GabaritoBolsoAudaces";
 import DuvidasAudacesMoldes from "./pages/DuvidasAudacesMoldes";
 import DuvidasAudacesMoldes2 from "./pages/DuvidasAudacesMoldes2";
+import RegistroCurso from "./pages/RegistroCurso";
 
 const queryClient = new QueryClient();
 
