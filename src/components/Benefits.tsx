@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
-import { CheckCircle2, Clock, Download, Users, Video, Award } from "lucide-react";
+import { CheckCircle2, Clock, Download, Users, Video, Award, ShieldCheck } from "lucide-react";
+import { Link } from "react-router-dom";
 
 const benefits = [
   {
@@ -76,6 +77,29 @@ export const Benefits = () => {
             </motion.div>
           ))}
         </div>
+
+        {/* Registro do Curso */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.6 }}
+          className="mt-12"
+        >
+          <Link to="/registro-curso" className="block">
+            <div className="bg-card border border-primary/20 rounded-2xl p-6 md:p-8 flex flex-col md:flex-row items-center gap-6 hover:border-primary/40 transition-colors">
+              <div className="w-14 h-14 rounded-xl bg-primary/10 flex items-center justify-center flex-shrink-0">
+                <ShieldCheck className="w-7 h-7 text-primary" />
+              </div>
+              <div className="text-center md:text-left">
+                <h3 className="text-lg font-semibold text-foreground mb-1">📝 Curso com Registro Oficial</h3>
+                <p className="text-muted-foreground text-sm">
+                  Nosso curso possui registro para maior segurança dos alunos. Além disso, garantimos que apenas profissionais preparados utilizem nosso material. Clique para saber mais.
+                </p>
+              </div>
+            </div>
+          </Link>
+        </motion.div>
       </div>
     </section>
   );
