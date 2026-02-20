@@ -64,6 +64,7 @@ import GabaritoBolsoAudaces from "./pages/articles/GabaritoBolsoAudaces";
 import DuvidasAudacesMoldes from "./pages/DuvidasAudacesMoldes";
 import DuvidasAudacesMoldes2 from "./pages/DuvidasAudacesMoldes2";
 import RegistroCurso from "./pages/RegistroCurso";
+import CaminhoSucesso from "./pages/CaminhoSucesso";
 
 const queryClient = new QueryClient();
 
@@ -132,6 +133,7 @@ const App = () => (
           <Route path="/duvidas-audaces-moldes" element={<DuvidasAudacesMoldes />} />
           <Route path="/duvidas-audaces-moldes-2" element={<DuvidasAudacesMoldes2 />} />
           <Route path="/registro-curso" element={<RegistroCurso />} />
+          <Route path="/caminho-do-sucesso" element={<CaminhoSucesso />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
