@@ -23,20 +23,20 @@ const CaminhoSucesso = () => {
   return (
     <>
       <Helmet>
-        <title>O Caminho do Sucesso na Modelagem Digital com Audaces | Professor Robson</title>
+        <title>Caminho do Sucesso Usando Audaces | Curso Audaces, Software, Encaixe e Digiflash</title>
         <meta
           name="description"
-          content="Conheça a história do Professor Robson, especialista em Audaces com mais de 500 alunos formados e selo de 5 estrelas. Aprenda modelagem digital, moldes em PDF e CorelDRAW. Acesse o curso em aprendaaudaces.lovable.app."
+          content="Descubra o caminho do sucesso usando Audaces com o Professor Robson. Curso Audaces completo: Audaces software, Audaces encaixe, Audaces Digiflash, aprender Audaces, Audaces 7. Alternativa segura ao Audaces crackeado e Audaces grátis — baixar Audaces de forma legal e profissional. Mais de 500 alunos formados e selo de 5 estrelas."
         />
         <meta
           name="keywords"
-          content="caminho do sucesso modelagem digital, curso audaces professor robson, modelagem digital audaces, moldes pdf coreldraw, operador audaces, digitalizar moldes, curso modelagem digital, aprender audaces"
+          content="Audaces, usando Audaces, Audaces software, curso Audaces, Audaces encaixe, Audaces Digiflash, aprender Audaces, Audaces 7, Audaces crackeado, Audaces grátis, download Audaces, baixar Audaces, modelagem digital, operador Audaces, moldes digitais, Professor Robson"
         />
-        <link rel="canonical" href="https://aprendaaudaces.lovable.app/caminho-do-sucesso" />
-        <meta property="og:title" content="O Caminho do Sucesso na Modelagem Digital com Audaces | Professor Robson" />
-        <meta property="og:description" content="Conheça o método do Professor Robson que já transformou a carreira de mais de 500 alunos no mundo da modelagem digital com Audaces." />
+        <link rel="canonical" href="https://aprendaaudaces.lovable.app/caminho-do-sucesso-usando-audaces" />
+        <meta property="og:title" content="Caminho do Sucesso Usando Audaces | Curso Audaces, Software, Encaixe e Digiflash" />
+        <meta property="og:description" content="Aprenda Audaces com o Professor Robson: curso Audaces, Audaces software, Audaces encaixe, Audaces Digiflash e Audaces 7. Mais de 500 alunos formados. A melhor alternativa ao Audaces grátis ou download Audaces não oficial." />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="https://aprendaaudaces.lovable.app/caminho-do-sucesso" />
+        <meta property="og:url" content="https://aprendaaudaces.lovable.app/caminho-do-sucesso-usando-audaces" />
       </Helmet>
 
       <main className="min-h-screen bg-background">
