@@ -29,12 +29,12 @@ export const Hero = () => {
             </span>
             
             <h1 className="mb-6 text-5xl md:text-7xl font-bold text-primary-foreground leading-tight">
-              Aprenda Audaces e <span className="text-accent">Lucre</span> com Moldes Digitais
+              Curso Audaces: <span className="text-accent">Modelagem</span> e Costura Profissional
             </h1>
             
             <p className="mb-10 text-xl md:text-2xl text-primary-foreground/90 font-light leading-relaxed max-w-3xl mx-auto">
-              O melhor curso Audaces do Brasil. Domine modelagem digital, crie moldes em PDF e CAD, 
-              use Audaces Encaixe e DigiFlash. Mais de 50 moldes bases inclusos.
+              O melhor curso de modelagem do Brasil. Aprenda Audaces, domine costura profissional, 
+              crie moldes em PDF e CAD com Audaces Encaixe e DigiFlash. Mais de 500 alunos formados.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

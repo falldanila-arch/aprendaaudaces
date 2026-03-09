@@ -32,6 +32,9 @@ const thematicPages = [
   { path: "/costura-basica", title: "Costura Básica", icon: BookOpen },
   { path: "/costura-modinha", title: "Costura Modinha", icon: TrendingUp },
   { path: "/costura-e-design", title: "Costura e Design", icon: Palette },
+  { path: "/audaces", title: "Audaces", icon: Monitor },
+  { path: "/caminho-do-sucesso-usando-audaces", title: "Sucesso com Audaces", icon: TrendingUp },
+  { path: "/registro-curso", title: "Registro do Curso", icon: Award },
 ];
 
 export const ThematicLinks = () => {
