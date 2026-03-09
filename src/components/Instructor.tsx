@@ -41,10 +41,10 @@ export const Instructor = () => {
               CONHEÇA SEU PROFESSOR
             </span>
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              Professor Robson
+              Professor Robson — Instrutor dos Cursos de Modelagem Audaces
             </h2>
             <p className="text-xl text-muted-foreground mb-8">
-              Especialista em modelagem digital com mais de duas décadas de experiência no programa Audaces.
+              Especialista em curso Audaces e cursos de modelagem com mais de duas décadas de experiência em costura e modelagem digital.
             </p>
 
             <div className="grid gap-4">
