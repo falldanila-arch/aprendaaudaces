@@ -38,15 +38,15 @@ export const OperadorAudaces = () => {
             TAMBÉM TEMOS O CURSO
           </span>
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-            Curso Operador de Audaces
+            Curso Audaces: Operador de Audaces
           </h2>
           <p className="text-xl text-primary font-semibold mb-2">
-            Digitalização e Liberação de Risco/Mapa
+            Cursos de Modelagem com Digitalização e Liberação de Risco/Mapa
           </p>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Curso destinado a quem quer se profissionalizar para trabalhar no setor de corte, 
-            na plotter, na digitalização e liberação de risco/mapa. 
-            Encontre milhares de vagas por todo o território brasileiro!
+            Curso Audaces destinado a quem quer se profissionalizar para trabalhar no setor de corte, 
+            na plotter, na digitalização e liberação de risco/mapa. Um dos melhores cursos de modelagem 
+            para costura profissional. Encontre milhares de vagas por todo o território brasileiro!
           </p>
         </motion.div>
 

@@ -81,7 +81,7 @@ export const CourseContent = () => {
             
             <div className="mt-8 bg-card p-8 rounded-2xl border border-border">
               <h3 className="text-2xl font-semibold text-foreground mb-6">
-                Está Incluído no Curso:
+                Está Incluído no Curso Audaces:
               </h3>
               <div className="space-y-3">
                 {includes.map((item, index) => (

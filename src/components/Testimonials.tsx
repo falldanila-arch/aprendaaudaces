@@ -34,10 +34,10 @@ export const Testimonials = () => {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-            Avaliações
+            Avaliações do Curso Audaces e Cursos de Modelagem
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Veja o que nossos alunos dizem sobre o curso
+            Veja o que nossos alunos dizem sobre nossos cursos de modelagem e costura
           </p>
         </motion.div>
 

@@ -35,10 +35,10 @@ export const ArticleLinks = () => {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-            Aprenda Mais Sobre Audaces
+            Artigos sobre Curso Audaces e Cursos de Modelagem
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Explore nossos artigos e descubra tudo que você pode fazer com o Audaces
+            Explore nossos artigos sobre cursos de modelagem, costura e tudo que você pode fazer com o Audaces
           </p>
         </motion.div>
 
