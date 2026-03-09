@@ -41,10 +41,10 @@ export const CourseContent = () => {
             transition={{ duration: 0.6 }}
           >
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              O Que Você Vai Aprender no Curso Audaces?
+              O Que Você Vai Aprender nos Nossos Cursos de Modelagem Audaces?
             </h2>
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-              Aprenda Audaces do básico ao avançado: modelagem Audaces, moldes em Audaces, converte PDF e muito mais.
+              Nosso curso Audaces ensina do básico ao avançado: cursos de modelagem com costura profissional, moldes em Audaces e muito mais.
             </p>
 
             <div className="space-y-4">
