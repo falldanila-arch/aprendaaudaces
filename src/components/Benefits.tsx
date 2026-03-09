@@ -47,10 +47,10 @@ export const Benefits = () => {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-            Por Que Escolher Este Curso Audaces?
+            Por Que Nosso Curso Audaces é o Melhor dos Cursos de Modelagem?
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Aprenda Audaces e domine modelagem digital, moldes em PDF, Audaces PDF, converte PDF e muito mais
+            No nosso curso Audaces você aprende modelagem digital, moldes em PDF, costura profissional e muito mais
           </p>
         </motion.div>
 

@@ -49,10 +49,10 @@ export const ThematicLinks = () => {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-            Explore Nossos Conteúdos
+            Explore Nossos Cursos de Modelagem e Costura
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Navegue por temas de modelagem, costura e confecção têxtil
+            Navegue por temas de cursos de modelagem, costura, curso Audaces e confecção têxtil
           </p>
         </motion.div>
 

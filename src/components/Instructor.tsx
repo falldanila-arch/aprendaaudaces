@@ -41,10 +41,10 @@ export const Instructor = () => {
               CONHEÇA SEU PROFESSOR
             </span>
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              Professor Robson
+              Professor Robson — Instrutor dos Cursos de Modelagem Audaces
             </h2>
             <p className="text-xl text-muted-foreground mb-8">
-              Especialista em modelagem digital com mais de duas décadas de experiência no programa Audaces.
+              Especialista em curso Audaces e cursos de modelagem com mais de duas décadas de experiência em costura e modelagem digital.
             </p>
 
             <div className="grid gap-4">
@@ -83,11 +83,11 @@ export const Instructor = () => {
               </span>
             </div>
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
-              Treinamento Presencial para Empresas
+              Cursos de Modelagem Presencial para Empresas
             </h2>
             <p className="text-lg text-muted-foreground mb-6">
-              Leve o melhor curso de Audaces diretamente para sua empresa. Oferecemos treinamentos 
-              presenciais e corporativos personalizados para equipes de modelagem e confecção.
+              Leve o melhor curso Audaces diretamente para sua empresa. Oferecemos cursos de modelagem 
+              presenciais e corporativos personalizados para equipes de costura, modelagem e confecção.
             </p>
             <ul className="space-y-3 mb-8 text-muted-foreground">
               <li className="flex items-center gap-3">
