@@ -49,10 +49,10 @@ export const FAQ = () => {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-            Perguntas Frequentes
+            Perguntas Frequentes sobre o Curso Audaces
           </h2>
           <p className="text-xl text-muted-foreground">
-            Tire suas dúvidas antes de começar
+            Tire suas dúvidas sobre Audaces, costura e cursos de modelagem
           </p>
         </motion.div>
 

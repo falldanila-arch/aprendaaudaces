@@ -32,12 +32,12 @@ export const CTA = () => {
           </div>
 
           <h2 className="text-4xl md:text-6xl font-bold text-primary-foreground mb-6 leading-tight">
-            Comece Sua Jornada Profissional Agora
+            Comece Seu Curso Audaces e Costura Agora
           </h2>
 
           <p className="text-xl md:text-2xl text-primary-foreground/90 mb-10 leading-relaxed">
-            Invista em sua carreira por apenas <span className="font-bold text-accent">R$ 299,90</span> e 
-            receba acesso imediato a todo o conteúdo, moldes e suporte exclusivo.
+            Invista no melhor curso de modelagem por apenas <span className="font-bold text-accent">R$ 299,90</span> e 
+            domine Audaces, costura profissional e moldes digitais com suporte exclusivo.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-8">
