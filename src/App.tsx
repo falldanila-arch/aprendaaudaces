@@ -65,6 +65,8 @@ import DuvidasAudacesMoldes from "./pages/DuvidasAudacesMoldes";
 import DuvidasAudacesMoldes2 from "./pages/DuvidasAudacesMoldes2";
 import RegistroCurso from "./pages/RegistroCurso";
 import CaminhoSucesso from "./pages/CaminhoSucesso";
+import CursoAudaces from "./pages/CursoAudaces";
+import CursosDeModelagem from "./pages/CursosDeModelagem";
 
 const queryClient = new QueryClient();
 
