@@ -65,6 +65,8 @@ import DuvidasAudacesMoldes from "./pages/DuvidasAudacesMoldes";
 import DuvidasAudacesMoldes2 from "./pages/DuvidasAudacesMoldes2";
 import RegistroCurso from "./pages/RegistroCurso";
 import CaminhoSucesso from "./pages/CaminhoSucesso";
+import CursoAudaces from "./pages/CursoAudaces";
+import CursosDeModelagem from "./pages/CursosDeModelagem";
 
 const queryClient = new QueryClient();
 
@@ -111,7 +113,7 @@ const App = () => (
           <Route path="/costura-basica" element={<CosturaBasica />} />
           <Route path="/costura-modinha" element={<CosturaModinha />} />
           <Route path="/costura-e-design" element={<CosturaEDesign />} />
-          <Route path="/cursos-de-modelagem" element={<CursosModelagem />} />
+          <Route path="/cursos-de-modelagem" element={<CursosDeModelagem />} />
           <Route path="/audaces-economizando-tecido" element={<AudacesEconomizandoTecido />} />
           <Route path="/moldes-digitais-sublimacao" element={<MoldesDigitaisSublimacao />} />
           <Route path="/mapa-risco-audaces" element={<MapaRiscoAudaces />} />
@@ -134,6 +136,8 @@ const App = () => (
           <Route path="/duvidas-audaces-moldes-2" element={<DuvidasAudacesMoldes2 />} />
           <Route path="/registro-curso" element={<RegistroCurso />} />
           <Route path="/caminho-do-sucesso-usando-audaces" element={<CaminhoSucesso />} />
+          <Route path="/curso-audaces" element={<CursoAudaces />} />
+          <Route path="/cursos-de-modelagem" element={<CursosDeModelagem />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
