@@ -51,4 +51,6 @@
   <url><loc>https://aprendaaudaces.lovable.app/gabarito-bolso-audaces</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://aprendaaudaces.lovable.app/duvidas-audaces-moldes</loc><priority>0.5</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://aprendaaudaces.lovable.app/duvidas-audaces-moldes-2</loc><priority>0.5</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://aprendaaudaces.lovable.app/curso-audaces</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://aprendaaudaces.lovable.app/cursos-de-modelagem</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
 </urlset>
