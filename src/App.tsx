@@ -69,6 +69,7 @@ import CursoAudaces from "./pages/CursoAudaces";
 import CursosDeModelagem from "./pages/CursosDeModelagem";
 import Blog from "./pages/Blog";
 import AudacesErradoModelagem from "./pages/blog/AudacesErradoModelagem";
+import GradacaoAutomaticaAudaces from "./pages/blog/GradacaoAutomaticaAudaces";
 
 const queryClient = new QueryClient();
 
@@ -142,6 +143,7 @@ const App = () => (
           <Route path="/cursos-de-modelagem" element={<CursosDeModelagem />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/blog/audaces-errado-modelagem-profissional" element={<AudacesErradoModelagem />} />
+          <Route path="/blog/gradacao-automatica-audaces-pp-g10" element={<GradacaoAutomaticaAudaces />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
