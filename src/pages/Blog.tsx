@@ -6,6 +6,16 @@ import { WhatsAppButton } from "@/components/WhatsAppButton";
 
 const blogPosts = [
   {
+    slug: "gradacao-automatica-audaces-pp-g10",
+    title: "Gradação Automática no Audaces: do PP ao G10 Sem Erros!",
+    excerpt: "Você ainda faz gradação na régua e manualmente? Veja como a gradação automática no Audaces elimina erros e acelera sua produção de moldes do PP ao G10.",
+    date: "2026-03-18",
+    readTime: "5 min",
+    image: "/placeholder.svg",
+    tags: ["Audaces", "Gradação", "Moldes"],
+    hasVideo: true,
+  },
+  {
     slug: "audaces-errado-modelagem-profissional",
     title: "A Maioria das Pessoas Usa o Audaces Errado — Veja Como Modelar de Verdade",
     excerpt: "Neste vídeo você vai ver, em tempo real, como nasce uma modelagem profissional dentro do Audaces 7. Sem enrolação, sem teoria infinita — é prática do início ao fim.",
