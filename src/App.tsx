@@ -69,6 +69,7 @@ import CursoAudaces from "./pages/CursoAudaces";
 import CursosDeModelagem from "./pages/CursosDeModelagem";
 import Blog from "./pages/Blog";
 import AudacesErradoModelagem from "./pages/blog/AudacesErradoModelagem";
+import GradacaoAutomaticaAudaces from "./pages/blog/GradacaoAutomaticaAudaces";
 
 const queryClient = new QueryClient();
 
