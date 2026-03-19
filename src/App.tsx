@@ -146,6 +146,8 @@ const App = () => (
           <Route path="/blog" element={<Blog />} />
           <Route path="/blog/audaces-errado-modelagem-profissional" element={<AudacesErradoModelagem />} />
           <Route path="/blog/gradacao-automatica-audaces-pp-g10" element={<GradacaoAutomaticaAudaces />} />
+          <Route path="/blog/:slug" element={<BlogPost />} />
+          <Route path="/admin/blog" element={<BlogAdmin />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
