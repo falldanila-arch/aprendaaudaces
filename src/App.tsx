@@ -68,6 +68,8 @@ import CaminhoSucesso from "./pages/CaminhoSucesso";
 import CursoAudaces from "./pages/CursoAudaces";
 import CursosDeModelagem from "./pages/CursosDeModelagem";
 import Blog from "./pages/Blog";
+import BlogPost from "./pages/blog/BlogPost";
+import BlogAdmin from "./pages/admin/BlogAdmin";
 import AudacesErradoModelagem from "./pages/blog/AudacesErradoModelagem";
 import GradacaoAutomaticaAudaces from "./pages/blog/GradacaoAutomaticaAudaces";
 
