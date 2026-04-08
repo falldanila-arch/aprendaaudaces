@@ -119,6 +119,7 @@ const App = () => (
           <Route path="/costura-basica" element={<CosturaBasica />} />
           <Route path="/costura-modinha" element={<CosturaModinha />} />
           <Route path="/costura-e-design" element={<CosturaEDesign />} />
+          <Route path="/apostila-curso-audaces" element={<ApostilaCurso />} />
           <Route path="/cursos-de-modelagem" element={<CursosDeModelagem />} />
           <Route path="/audaces-economizando-tecido" element={<AudacesEconomizandoTecido />} />
           <Route path="/moldes-digitais-sublimacao" element={<MoldesDigitaisSublimacao />} />
