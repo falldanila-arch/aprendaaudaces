@@ -42,6 +42,7 @@ import CosturaBasica from "./pages/CosturaBasica";
 import CosturaModinha from "./pages/CosturaModinha";
 import CosturaEDesign from "./pages/CosturaEDesign";
 import ApostilaCurso from "./pages/ApostilaCurso";
+import ApostilaOperador from "./pages/ApostilaOperador";
 
 // Article pages
 import AudacesEconomizandoTecido from "./pages/articles/AudacesEconomizandoTecido";
