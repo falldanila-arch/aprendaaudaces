@@ -2,7 +2,7 @@ import { Helmet } from "react-helmet";
 import { motion } from "framer-motion";
 import { ArrowLeft, ShieldCheck, Clock, Mail, AlertCircle, CheckCircle } from "lucide-react";
 import { Link } from "react-router-dom";
-import WhatsAppButton from "@/components/WhatsAppButton";
+import { WhatsAppButton } from "@/components/WhatsAppButton";
 
 const PoliticaDevolucao = () => {
   return (
@@ -43,8 +43,8 @@ const PoliticaDevolucao = () => {
             {/* Garantia de 7 dias */}
             <section className="mb-10 p-6 bg-card rounded-2xl border border-border">
               <div className="flex items-start gap-4">
-                <div className="w-10 h-10 rounded-full bg-green-500/10 flex items-center justify-center shrink-0 mt-1">
-                  <CheckCircle className="w-5 h-5 text-green-500" />
+                <div className="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center shrink-0 mt-1">
+                  <CheckCircle className="w-5 h-5 text-accent" />
                 </div>
                 <div>
                   <h2 className="text-2xl font-semibold text-foreground mb-3">Garantia de 7 Dias</h2>

@@ -125,6 +125,7 @@ const App = () => (
           <Route path="/apostila-curso-audaces" element={<ApostilaCurso />} />
           <Route path="/apostila-curso-operador-audaces" element={<ApostilaOperador />} />
           <Route path="/bellajob" element={<Bellajob />} />
+          <Route path="/politica-de-devolucao" element={<PoliticaDevolucao />} />
           <Route path="/cursos-de-modelagem" element={<CursosDeModelagem />} />
           <Route path="/audaces-economizando-tecido" element={<AudacesEconomizandoTecido />} />
           <Route path="/moldes-digitais-sublimacao" element={<MoldesDigitaisSublimacao />} />
