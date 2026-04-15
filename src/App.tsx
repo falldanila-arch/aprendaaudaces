@@ -44,6 +44,7 @@ import CosturaEDesign from "./pages/CosturaEDesign";
 import ApostilaCurso from "./pages/ApostilaCurso";
 import ApostilaOperador from "./pages/ApostilaOperador";
 import Bellajob from "./pages/Bellajob";
+import PoliticaDevolucao from "./pages/PoliticaDevolucao";
 
 // Article pages
 import AudacesEconomizandoTecido from "./pages/articles/AudacesEconomizandoTecido";
