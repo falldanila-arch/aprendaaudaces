@@ -29,7 +29,7 @@ export const Hero = () => {
             </span>
             
             <h1 className="mb-6 text-5xl md:text-7xl font-bold text-primary-foreground leading-tight">
-              Curso Audaces: <span className="text-accent">Modelagem</span> e Costura Profissional
+              Curso Audaces Completo: Aprenda <span className="text-accent">DigiFlash</span>, Moldes e Encaixe
             </h1>
             
             <p className="mb-10 text-xl md:text-2xl text-primary-foreground/90 font-light leading-relaxed max-w-3xl mx-auto">
