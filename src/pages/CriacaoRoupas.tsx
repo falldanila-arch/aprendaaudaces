@@ -10,7 +10,7 @@ const CriacaoRoupas = () => {
       <Helmet>
         <title>Criação de Roupas - Do Design à Confecção | Aprenda Audaces</title>
         <meta name="description" content="Aprenda o processo completo de criação de roupas, desde o design até a confecção final. Técnicas de estilismo, modelagem e produção de peças exclusivas." />
-        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, criação de roupas, design de moda, confecção de roupas" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, criação de roupas, design de moda, confecção de roupas, curso audaces, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
       <main className="min-h-screen bg-background">
         <div className="container px-6 py-12 mx-auto">

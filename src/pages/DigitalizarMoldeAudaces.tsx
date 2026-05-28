@@ -32,10 +32,7 @@ const DigitalizarMoldeAudaces = () => {
           name="description"
           content="Aprenda como digitalizar molde no Audaces Moldes: paleta do usuário, posicionamento de fio, desdobrar molde, cortes, piques, costura e propriedades. Tutorial completo."
         />
-        <meta
-          name="keywords"
-          content="digitalizar molde audaces, audaces moldes, posicionamento de fio, paleta do usuário audaces, desdobrar molde audaces, propriedades molde, curso audaces, digiflash"
-        />
+        <meta name="keywords" content="digitalizar molde audaces, audaces moldes, posicionamento de fio, paleta do usuário audaces, desdobrar molde audaces, propriedades molde, curso audaces, digiflash, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
         <link rel="canonical" href={canonical} />
         <meta property="og:title" content="Como Digitalizar Molde no Audaces: Guia Completo" />
         <meta

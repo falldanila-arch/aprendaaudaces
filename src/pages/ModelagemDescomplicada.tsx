@@ -10,7 +10,7 @@ const ModelagemDescomplicada = () => {
       <Helmet>
         <title>Modelagem Descomplicada - Aprenda Modelagem de Forma Simples | Curso Audaces</title>
         <meta name="description" content="Modelagem descomplicada: aprenda técnicas de modelagem de roupas de forma simples e prática. Curso para iniciantes com passo a passo fácil de seguir." />
-        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, modelagem descomplicada, modelagem fácil, audaces moldes" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, modelagem descomplicada, modelagem fácil, audaces moldes, curso audaces, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
       
       <main className="min-h-screen bg-background">

@@ -10,7 +10,7 @@ const RegistroCurso = () => {
       <Helmet>
         <title>Registro do Curso Audaces | Certificação e Segurança para Alunos</title>
         <meta name="description" content="Nosso curso Audaces possui registro oficial para maior segurança dos alunos. Além disso, garantimos que apenas profissionais preparados utilizem nosso material de modelagem digital, moldes em PDF e costura." />
-        <meta name="keywords" content="registro curso audaces, certificação audaces, curso audaces registrado, cursos de modelagem, modelagem digital, moldes em pdf, costura, designer grafico, cursos de modelagem audaces" />
+        <meta name="keywords" content="registro curso audaces, certificação audaces, curso audaces registrado, cursos de modelagem, modelagem digital, moldes em pdf, costura, designer grafico, cursos de modelagem audaces, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
       <main className="min-h-screen bg-background">
         {/* Header */}

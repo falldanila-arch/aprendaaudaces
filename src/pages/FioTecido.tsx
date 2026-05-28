@@ -10,7 +10,7 @@ const FioTecido = () => {
       <Helmet>
         <title>Fio e Tecido - Entenda as Fibras e Composições Têxteis | Guia</title>
         <meta name="description" content="Fio e tecido: entenda as fibras, composições e características dos materiais têxteis. Guia completo para escolher os melhores materiais para costura." />
-        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, fio tecido, fibras têxteis, composição tecido, audaces moldes" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, fio tecido, fibras têxteis, composição tecido, audaces moldes, curso audaces, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
       
       <main className="min-h-screen bg-background">

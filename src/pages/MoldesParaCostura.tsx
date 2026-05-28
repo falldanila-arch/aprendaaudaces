@@ -10,7 +10,7 @@ const MoldesParaCostura = () => {
       <Helmet>
         <title>Moldes para Costura - Aprenda a Criar Moldes Profissionais | Curso Audaces</title>
         <meta name="description" content="Aprenda a criar moldes para costura profissionais. Curso completo de modelagem digital com mais de 50 moldes bases prontos para usar em suas criações." />
-        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, moldes para costura, moldes de costura, audaces moldes" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, moldes para costura, moldes de costura, audaces moldes, curso audaces, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
       
       <main className="min-h-screen bg-background">

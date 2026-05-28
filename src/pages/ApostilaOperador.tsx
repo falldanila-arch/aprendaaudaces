@@ -42,7 +42,7 @@ const ApostilaOperador = () => {
       <Helmet>
         <title>Apostila Curso Operador de Audaces | Professor Robson Costa</title>
         <meta name="description" content="Apostila completa do curso Operador de Audaces. 7 módulos práticos: digitalização DigiFlash, Audaces Moldes, graduação, encaixe e risco. Professor Robson Costa, 20+ anos de experiência na indústria têxtil." />
-        <meta name="keywords" content="operador de audaces, curso operador audaces, digitalização digiflash, audaces moldes, audaces encaixe, risco audaces, graduação audaces, cursos de modelagem, cursos de modelagem audaces, cursos de modelagem digital, moldes digitais, plotagem audaces" />
+        <meta name="keywords" content="operador de audaces, curso operador audaces, digitalização digiflash, audaces moldes, audaces encaixe, risco audaces, graduação audaces, cursos de modelagem, cursos de modelagem audaces, cursos de modelagem digital, moldes digitais, plotagem audaces, curso audaces, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
         <link rel="canonical" href="https://aprendaaudaces.lovable.app/apostila-curso-operador-audaces" />
         <meta property="og:title" content="Apostila Curso Operador de Audaces | Professor Robson Costa" />
         <meta property="og:description" content="Curso completo com 7 módulos práticos para operar Audaces em fábricas e confecções. DigiFlash, Moldes, Encaixe e Risco." />

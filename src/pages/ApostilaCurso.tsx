@@ -46,7 +46,7 @@ const ApostilaCurso = () => {
       <Helmet>
         <title>Apostila Curso Aprenda Modelagem no Audaces e Lucre | Professor Robson</title>
         <meta name="description" content="Apostila completa do curso Aprenda Modelagem no Audaces e Lucre. 11 módulos práticos: criação de moldes, graduação, exportação para CorelDRAW e PDF, dicas de venda. Professor Robson Costa, 20+ anos de experiência." />
-        <meta name="keywords" content="apostila audaces, curso audaces, modelagem audaces, moldes digitais, curso modelagem, aprenda audaces, CorelDRAW moldes, moldes PDF, graduação audaces, criar moldes audaces, curso modelagem digital" />
+        <meta name="keywords" content="apostila audaces, curso audaces, modelagem audaces, moldes digitais, curso modelagem, aprenda audaces, CorelDRAW moldes, moldes PDF, graduação audaces, criar moldes audaces, curso modelagem digital, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
         <link rel="canonical" href="https://aprendaaudaces.lovable.app/apostila-curso-audaces" />
         <meta property="og:title" content="Apostila Curso Aprenda Modelagem no Audaces e Lucre" />
         <meta property="og:description" content="Curso completo com 11 módulos práticos de modelagem digital no Audaces. Do zero à comercialização de moldes." />

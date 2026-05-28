@@ -14,7 +14,7 @@ const DuvidasAudacesMoldes2 = () => {
       <Helmet>
         <title>Dúvidas Audaces Moldes 2 - Curso Audaces Modelagem</title>
         <meta name="description" content="Aprenda a criar moldes no Audaces: geometria de construção, bases de moldes femininas, masculinas e infantis, e como começar moldes do zero." />
-        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, curso modelagem, audaces moldes, criar moldes audaces" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, curso modelagem, audaces moldes, criar moldes audaces, curso audaces, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
 
       <div className="min-h-screen bg-background">

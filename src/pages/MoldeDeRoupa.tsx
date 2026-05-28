@@ -10,7 +10,7 @@ const MoldeDeRoupa = () => {
       <Helmet>
         <title>Molde de Roupa - Como Criar Moldes de Roupas Profissionais | Audaces</title>
         <meta name="description" content="Aprenda como criar molde de roupa profissional. Técnicas de modelagem para camisetas, calças, vestidos e mais. Curso completo com certificado." />
-        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, molde de roupa, moldes de roupas, audaces moldes" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, molde de roupa, moldes de roupas, audaces moldes, curso audaces, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
       
       <main className="min-h-screen bg-background">

@@ -10,7 +10,7 @@ const GradacaoAutomaticaAudaces = () => {
       <Helmet>
         <title>Gradação Automática no Audaces: do PP ao G10 Sem Erros | Blog Aprenda Audaces</title>
         <meta name="description" content="Descubra como a gradação automática no Audaces elimina erros e acelera sua produção. Compare manual vs digital e aprenda a garantir caimento perfeito do PP ao G10." />
-        <meta name="keywords" content="gradação automática Audaces, gradação moldes, PP ao G10, cursos de modelagem, modelagem digital, Audaces, moldes profissionais, gradação digital" />
+        <meta name="keywords" content="gradação automática Audaces, gradação moldes, PP ao G10, cursos de modelagem, modelagem digital, Audaces, moldes profissionais, gradação digital, curso audaces, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
         <link rel="canonical" href="https://aprendaaudaces.lovable.app/blog/gradacao-automatica-audaces-pp-g10" />
         <meta property="og:title" content="Gradação Automática no Audaces: do PP ao G10 Sem Erros" />
         <meta property="og:description" content="Veja como a gradação automática no Audaces elimina erros e acelera sua produção de moldes do PP ao G10." />

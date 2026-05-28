@@ -10,7 +10,7 @@ const AudacesDigiflash = () => {
       <Helmet>
         <title>Audaces DigiFlash - Digitalização de Moldes | Aprenda Audaces</title>
         <meta name="description" content="Aprenda Audaces DigiFlash para digitalizar moldes físicos com câmera ou scanner. Converta moldes de papel em arquivos digitais de forma rápida e precisa." />
-        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, audaces digiflash, digitalizar moldes, digitalização moldes" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, audaces digiflash, digitalizar moldes, digitalização moldes, curso audaces, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
         <link rel="canonical" href="https://aprendaaudaces.lovable.app/audaces-digiflash" />
       </Helmet>
 

@@ -10,7 +10,7 @@ const PoliticaDevolucao = () => {
       <Helmet>
         <title>Política de Devolução e Reembolso | Aprenda Audaces</title>
         <meta name="description" content="Conheça nossa política de devolução e reembolso para cursos digitais. Garantia de 7 dias conforme o Código de Defesa do Consumidor." />
-        <meta name="keywords" content="política de devolução, reembolso, garantia, curso audaces, devolução curso online" />
+        <meta name="keywords" content="política de devolução, reembolso, garantia, curso audaces, devolução curso online, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
         <link rel="canonical" href="https://aprendaaudaces.lovable.app/politica-de-devolucao" />
       </Helmet>
 

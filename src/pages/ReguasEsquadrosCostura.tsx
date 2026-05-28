@@ -10,7 +10,7 @@ const ReguasEsquadrosCostura = () => {
       <Helmet>
         <title>Réguas e Esquadros para Costura - Ferramentas Essenciais | Modelagem</title>
         <meta name="description" content="Réguas e esquadros para costura: conheça as ferramentas essenciais para modelagem e corte de tecidos. Guia completo de instrumentos de costura." />
-        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, réguas para costura, esquadros costura, ferramentas modelagem, audaces moldes" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, réguas para costura, esquadros costura, ferramentas modelagem, audaces moldes, curso audaces, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
       
       <main className="min-h-screen bg-background">

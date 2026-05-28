@@ -28,10 +28,7 @@ const CaminhoSucesso = () => {
           name="description"
           content="Descubra o caminho do sucesso usando Audaces com o Professor Robson. Curso Audaces completo: Audaces software, Audaces encaixe, Audaces Digiflash, aprender Audaces, Audaces 7. Alternativa segura ao Audaces crackeado e Audaces grátis — baixar Audaces de forma legal e profissional. Mais de 500 alunos formados e selo de 5 estrelas."
         />
-        <meta
-          name="keywords"
-          content="Audaces, usando Audaces, Audaces software, curso Audaces, Audaces encaixe, Audaces Digiflash, aprender Audaces, Audaces 7, Audaces crackeado, Audaces grátis, download Audaces, baixar Audaces, modelagem digital, operador Audaces, moldes digitais, Professor Robson"
-        />
+        <meta name="keywords" content="Audaces, usando Audaces, Audaces software, curso Audaces, Audaces encaixe, Audaces Digiflash, aprender Audaces, Audaces 7, Audaces crackeado, Audaces grátis, download Audaces, baixar Audaces, modelagem digital, operador Audaces, moldes digitais, Professor Robson, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
         <link rel="canonical" href="https://aprendaaudaces.lovable.app/caminho-do-sucesso-usando-audaces" />
         <meta property="og:title" content="Caminho do Sucesso Usando Audaces | Curso Audaces, Software, Encaixe e Digiflash" />
         <meta property="og:description" content="Aprenda Audaces com o Professor Robson: curso Audaces, Audaces software, Audaces encaixe, Audaces Digiflash e Audaces 7. Mais de 500 alunos formados. A melhor alternativa ao Audaces grátis ou download Audaces não oficial." />

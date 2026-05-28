@@ -14,7 +14,7 @@ const CursoAudaces = () => {
       <Helmet>
         <title>Curso Audaces | Aprenda Audaces do Zero ao Avançado | Modelagem Digital</title>
         <meta name="description" content="Curso Audaces completo: aprenda Audaces software, Audaces encaixe, Audaces Digiflash e Audaces 7. O melhor curso Audaces do Brasil com modelagem digital, moldes PDF, costura profissional. Aprender Audaces nunca foi tão fácil. 500+ alunos formados." />
-        <meta name="keywords" content="curso Audaces, Audaces, aprender Audaces, Audaces software, Audaces encaixe, Audaces Digiflash, Audaces 7, Audaces grátis, baixar Audaces, download Audaces, curso de modelagem, cursos de modelagem, modelagem digital, moldes PDF, costura profissional, operador Audaces" />
+        <meta name="keywords" content="curso Audaces, Audaces, aprender Audaces, Audaces software, Audaces encaixe, Audaces Digiflash, Audaces 7, Audaces grátis, baixar Audaces, download Audaces, curso de modelagem, cursos de modelagem, modelagem digital, moldes PDF, costura profissional, operador Audaces, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
         <link rel="canonical" href="https://aprendaaudaces.lovable.app/curso-audaces" />
         <meta property="og:title" content="Curso Audaces | Aprenda Audaces do Zero ao Avançado" />
         <meta property="og:description" content="O melhor curso Audaces do Brasil. Aprenda modelagem digital, Audaces encaixe, Digiflash e crie moldes profissionais. 500+ alunos." />
