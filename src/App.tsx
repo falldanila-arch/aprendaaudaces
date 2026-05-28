@@ -46,6 +46,7 @@ import ApostilaOperador from "./pages/ApostilaOperador";
 import Bellajob from "./pages/Bellajob";
 import PoliticaDevolucao from "./pages/PoliticaDevolucao";
 import DigitalizarMoldeAudaces from "./pages/DigitalizarMoldeAudaces";
+import TutoriaisCostura from "./pages/TutoriaisCostura";
 
 // Article pages
 import AudacesEconomizandoTecido from "./pages/articles/AudacesEconomizandoTecido";
@@ -128,6 +129,7 @@ const App = () => (
           <Route path="/bellajob" element={<Bellajob />} />
           <Route path="/politica-de-devolucao" element={<PoliticaDevolucao />} />
           <Route path="/digitalizar-molde-audaces" element={<DigitalizarMoldeAudaces />} />
+          <Route path="/tutoriais-costura" element={<TutoriaisCostura />} />
           <Route path="/cursos-de-modelagem" element={<CursosDeModelagem />} />
           <Route path="/audaces-economizando-tecido" element={<AudacesEconomizandoTecido />} />
           <Route path="/moldes-digitais-sublimacao" element={<MoldesDigitaisSublimacao />} />
