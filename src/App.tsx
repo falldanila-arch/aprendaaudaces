@@ -45,6 +45,7 @@ import ApostilaCurso from "./pages/ApostilaCurso";
 import ApostilaOperador from "./pages/ApostilaOperador";
 import Bellajob from "./pages/Bellajob";
 import PoliticaDevolucao from "./pages/PoliticaDevolucao";
+import DigitalizarMoldeAudaces from "./pages/DigitalizarMoldeAudaces";
 
 // Article pages
 import AudacesEconomizandoTecido from "./pages/articles/AudacesEconomizandoTecido";
