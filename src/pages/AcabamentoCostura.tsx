@@ -10,7 +10,7 @@ const AcabamentoCostura = () => {
       <Helmet>
         <title>Acabamento na Costura - Técnicas Profissionais de Finalização | Aprenda Audaces</title>
         <meta name="description" content="Aprenda técnicas de acabamento profissional na costura. Bainhas, viés, overloque, pespontos e mais para peças com qualidade impecável." />
-        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, acabamento costura, bainhas, viés, overloque" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, acabamento costura, bainhas, viés, overloque, curso audaces, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
       <main className="min-h-screen bg-background">
         <div className="container px-6 py-12 mx-auto">

@@ -10,7 +10,7 @@ const Audaces = () => {
       <Helmet>
         <title>Audaces - Sistema de Modelagem e Encaixe Têxtil | Aprenda Audaces</title>
         <meta name="description" content="Aprenda Audaces, o sistema líder em modelagem digital, encaixe automático e criação de moldes para confecção. Domine o software usado pelas maiores empresas têxteis do Brasil." />
-        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, audaces, sistema audaces, software audaces, audaces vestuário, audaces moldes" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, audaces, sistema audaces, software audaces, audaces vestuário, audaces moldes, curso audaces, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
         <link rel="canonical" href="https://aprendaaudaces.lovable.app/audaces" />
       </Helmet>
 

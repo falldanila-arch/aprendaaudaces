@@ -10,7 +10,7 @@ const CosturaModinha = () => {
       <Helmet>
         <title>Costura Modinha - Tendências de Moda e Costura Atual | Curso</title>
         <meta name="description" content="Costura modinha: aprenda a criar roupas seguindo tendências de moda. Técnicas de costura criativa, costura e design, costura social e costura básica." />
-        <meta name="keywords" content="costura modinha, costura, costura criativa, costura e design, costura social, costura básica, costura em casa, cursos de modelagem, cursos de modelagem audaces, cursos de modelagem moldes e encaixe" />
+        <meta name="keywords" content="costura modinha, costura, costura criativa, costura e design, costura social, costura básica, costura em casa, cursos de modelagem, cursos de modelagem audaces, cursos de modelagem moldes e encaixe, curso audaces, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
       
       <main className="min-h-screen bg-background">

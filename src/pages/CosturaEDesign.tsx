@@ -10,7 +10,7 @@ const CosturaEDesign = () => {
       <Helmet>
         <title>Costura e Design - Crie Moda com Design Profissional | Curso</title>
         <meta name="description" content="Costura e design: aprenda a criar moda unindo costura criativa, alta costura e costura modinha. Desenvolva peças exclusivas com design profissional." />
-        <meta name="keywords" content="costura e design, costura, costura criativa, alta costura, costura modinha, costura social, costura alfaiataria, cursos de modelagem, cursos de modelagem audaces, cursos de modelagem digital" />
+        <meta name="keywords" content="costura e design, costura, costura criativa, alta costura, costura modinha, costura social, costura alfaiataria, cursos de modelagem, cursos de modelagem audaces, cursos de modelagem digital, curso audaces, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
       
       <main className="min-h-screen bg-background">

@@ -13,7 +13,7 @@ const CursosDeModelagem = () => {
       <Helmet>
         <title>Cursos de Modelagem | Curso de Modelagem Digital e Profissional | Audaces</title>
         <meta name="description" content="Cursos de modelagem completos: curso de modelagem digital no Audaces, modelagem manual, moldes PDF, costura profissional. Os melhores cursos de modelagem do Brasil com Audaces encaixe, Digiflash e modelagem descomplicada. 500+ alunos formados." />
-        <meta name="keywords" content="cursos de modelagem, curso de modelagem, cursos de modelagem Audaces, cursos de modelagem digital, cursos de modelagem descomplicada, cursos de modelagem fácil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem em PDF, curso Audaces, modelagem profissional, modelagem digital, costura, moldes PDF" />
+        <meta name="keywords" content="cursos de modelagem, curso de modelagem, cursos de modelagem Audaces, cursos de modelagem digital, cursos de modelagem descomplicada, cursos de modelagem fácil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem em PDF, curso Audaces, modelagem profissional, modelagem digital, costura, moldes PDF, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
         <link rel="canonical" href="https://aprendaaudaces.lovable.app/cursos-de-modelagem" />
         <meta property="og:title" content="Cursos de Modelagem | Modelagem Digital e Profissional com Audaces" />
         <meta property="og:description" content="Os melhores cursos de modelagem do Brasil. Aprenda modelagem digital no Audaces, crie moldes PDF e domine costura profissional. 500+ alunos." />

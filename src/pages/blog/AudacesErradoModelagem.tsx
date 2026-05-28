@@ -10,7 +10,7 @@ const AudacesErradoModelagem = () => {
       <Helmet>
         <title>A Maioria Usa o Audaces Errado — Veja Como Modelar de Verdade | Blog Aprenda Audaces</title>
         <meta name="description" content="Descubra por que a maioria das pessoas usa o Audaces errado e aprenda, em tempo real, como nasce uma modelagem profissional dentro do Audaces 7. Prática do início ao fim." />
-        <meta name="keywords" content="Audaces errado, modelagem profissional, Audaces 7, curso Audaces, cursos de modelagem, molde Audaces, digitalizar moldes, modelagem digital" />
+        <meta name="keywords" content="Audaces errado, modelagem profissional, Audaces 7, curso Audaces, cursos de modelagem, molde Audaces, digitalizar moldes, modelagem digital, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
         <link rel="canonical" href="https://aprendaaudaces.lovable.app/blog/audaces-errado-modelagem-profissional" />
         <meta property="og:title" content="A Maioria Usa o Audaces Errado — Veja Como Modelar de Verdade" />
         <meta property="og:description" content="Veja em tempo real como nasce uma modelagem profissional no Audaces 7. Prática do início ao fim, sem enrolação." />

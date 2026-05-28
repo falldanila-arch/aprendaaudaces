@@ -10,7 +10,7 @@ const ModelagemManual = () => {
       <Helmet>
         <title>Modelagem Manual - Técnicas Tradicionais de Criação de Moldes | Aprenda Audaces</title>
         <meta name="description" content="Aprenda modelagem manual com técnicas tradicionais de criação de moldes. Domine o uso de réguas, esquadros e papel para criar moldes precisos à mão." />
-        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, modelagem manual, moldes à mão, técnicas tradicionais" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, modelagem manual, moldes à mão, técnicas tradicionais, curso audaces, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
       <main className="min-h-screen bg-background">
         <div className="container px-6 py-12 mx-auto">

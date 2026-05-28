@@ -26,7 +26,7 @@ const Bellajob = () => {
       <Helmet>
         <title>Bellajob - Cursos Online de Beleza e Estética | Profissionalização</title>
         <meta name="description" content="Conheça o Bellajob: plataforma de cursos online de beleza e estética. Aprenda maquiagem, design de sobrancelhas, manicure e pedicure. Estude no seu ritmo e conquiste renda própria." />
-        <meta name="keywords" content="bellajob, cursos de beleza online, maquiagem profissional, design de sobrancelhas, manicure e pedicure, estética, profissionalização beleza, renda extra beleza, cursos online beleza" />
+        <meta name="keywords" content="bellajob, cursos de beleza online, maquiagem profissional, design de sobrancelhas, manicure e pedicure, estética, profissionalização beleza, renda extra beleza, cursos online beleza, curso audaces, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
         <link rel="canonical" href="https://aprendaaudaces.lovable.app/bellajob" />
         <meta property="og:title" content="Bellajob - Cursos Online de Beleza e Estética" />
         <meta property="og:description" content="Plataforma completa para quem deseja entrar no mercado da beleza com cursos online de maquiagem, sobrancelhas, manicure e muito mais." />

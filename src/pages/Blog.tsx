@@ -13,7 +13,7 @@ const Blog = () => {
       <Helmet>
         <title>Blog | Cursos de Modelagem Audaces - Dicas, Tutoriais e Novidades</title>
         <meta name="description" content="Blog sobre cursos de modelagem, Audaces, costura profissional e modelagem digital. Dicas, tutoriais e novidades para quem quer dominar o Audaces e trabalhar com moda." />
-        <meta name="keywords" content="blog modelagem, blog Audaces, dicas Audaces, tutorial Audaces, cursos de modelagem, modelagem digital, costura profissional" />
+        <meta name="keywords" content="blog modelagem, blog Audaces, dicas Audaces, tutorial Audaces, cursos de modelagem, modelagem digital, costura profissional, curso audaces, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
         <link rel="canonical" href="https://aprendaaudaces.lovable.app/blog" />
         <script type="application/ld+json">{`
           {

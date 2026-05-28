@@ -10,7 +10,7 @@ const ModelagemCad = () => {
       <Helmet>
         <title>Modelagem CAD - Software de Modelagem Industrial | Aprenda Audaces</title>
         <meta name="description" content="Aprenda modelagem CAD com softwares profissionais como Audaces. Crie moldes digitais com precisão milimétrica para confecção industrial e aumente sua produtividade." />
-        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, modelagem CAD, software modelagem, Audaces CAD, moldes digitais" />
+        <meta name="keywords" content="cursos de modelagem, cursos de modelagem audaces, cursos de modelagem descomplicada, cursos de modelagem facil, cursos de modelagem moldes e encaixe, cursos de modelagem e digiflash, cursos de modelagem digital, cursos de modelagem em pdf, modelagem CAD, software modelagem, Audaces CAD, moldes digitais, curso audaces, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
       <main className="min-h-screen bg-background">
         <div className="container px-6 py-12 mx-auto">

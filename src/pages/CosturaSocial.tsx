@@ -10,7 +10,7 @@ const CosturaSocial = () => {
       <Helmet>
         <title>Costura Social - Roupas para Eventos e Ocasiões Especiais | Curso</title>
         <meta name="description" content="Costura social: aprenda a criar vestidos, ternos e roupas para eventos. Técnicas de alta costura, costura alfaiataria e costura e design para ocasiões especiais." />
-        <meta name="keywords" content="costura social, costura, alta costura, costura alfaiataria, costura e design, costura criativa, costura modinha, cursos de modelagem, cursos de modelagem audaces, cursos de modelagem em pdf" />
+        <meta name="keywords" content="costura social, costura, alta costura, costura alfaiataria, costura e design, costura criativa, costura modinha, cursos de modelagem, cursos de modelagem audaces, cursos de modelagem em pdf, curso audaces, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
       
       <main className="min-h-screen bg-background">

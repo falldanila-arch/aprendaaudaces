@@ -12,7 +12,7 @@ const NotFound = () => {
   return (
     <>
       <Helmet>
-        <meta name="keywords" content="modelagem digital, moldes em pdf, cursos de modelagem, curso modelagem, audaces moldes" />
+        <meta name="keywords" content="modelagem digital, moldes em pdf, cursos de modelagem, curso modelagem, audaces moldes, curso audaces, costura, costura criativa, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
       <div className="flex min-h-screen items-center justify-center bg-muted">
       <div className="text-center">

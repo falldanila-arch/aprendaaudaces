@@ -10,7 +10,7 @@ const AltaCostura = () => {
       <Helmet>
         <title>Alta Costura - Técnicas de Costura de Luxo | Curso Profissional</title>
         <meta name="description" content="Alta costura: aprenda técnicas refinadas de costura alfaiataria, costura social e costura e design. Crie peças exclusivas com acabamento de luxo." />
-        <meta name="keywords" content="alta costura, costura, costura alfaiataria, costura social, costura e design, costura criativa, costura e corte, cursos de modelagem, cursos de modelagem audaces, cursos de modelagem digital" />
+        <meta name="keywords" content="alta costura, costura, costura alfaiataria, costura social, costura e design, costura criativa, costura e corte, cursos de modelagem, cursos de modelagem audaces, cursos de modelagem digital, curso audaces, curso de costura, curso de costura criativa, aprender costura, curso audaces online" />
       </Helmet>
       
       <main className="min-h-screen bg-background">
