@@ -21,38 +21,51 @@ const CentralDaCopa = () => {
   ];
 
   const grupos = [
-    { nome: "Grupo A", times: ["Brasil", "Argentina", "México", "Canadá"] },
-    { nome: "Grupo B", times: ["França", "Alemanha", "Japão", "Marrocos"] },
-    { nome: "Grupo C", times: ["Espanha", "Portugal", "Inglaterra", "Croácia"] },
-    { nome: "Grupo D", times: ["Itália", "Holanda", "Uruguai", "Senegal"] },
+    { nome: "Grupo A", times: ["México", "Canadá", "Uruguai", "Egito"] },
+    { nome: "Grupo B", times: ["Estados Unidos", "Equador", "Coreia do Sul", "Noruega"] },
+    { nome: "Grupo C", times: ["Argentina", "Austrália", "Tunísia", "Catar"] },
+    { nome: "Grupo D", times: ["Brasil", "Marrocos", "Suíça", "Nova Zelândia"] },
+    { nome: "Grupo E", times: ["França", "Senegal", "Japão", "Panamá"] },
+    { nome: "Grupo F", times: ["Inglaterra", "Croácia", "Costa do Marfim", "Arábia Saudita"] },
+    { nome: "Grupo G", times: ["Espanha", "Colômbia", "Irã", "Jamaica"] },
+    { nome: "Grupo H", times: ["Alemanha", "Países Baixos", "Gana", "Bolívia"] },
+    { nome: "Grupo I", times: ["Portugal", "Bélgica", "Camarões", "Honduras"] },
+    { nome: "Grupo J", times: ["Itália", "México (Conv.)", "Nigéria", "Paraguai"] },
+    { nome: "Grupo K", times: ["Holanda", "Áustria", "África do Sul", "Costa Rica"] },
+    { nome: "Grupo L", times: ["Dinamarca", "Turquia", "Argélia", "Venezuela"] },
   ];
 
   return (
     <>
       <Helmet>
-        <title>Central da Copa: Jogos, Escalação, Chaves, Álbum, Mascote e Hino</title>
+        <title>Central da Copa 2026: Brasil x Marrocos 13/06, Escalação e Grupos</title>
         <meta
           name="description"
-          content="Central da Copa: tudo sobre a Copa do Mundo. Jogos do Brasil, escalação do dia 13/06, chaves dos grupos, álbum, mascote, hino oficial e o sonho do Hexa. Acesse centraldascopas.com.br."
+          content="Central da Copa 2026: tudo sobre a Copa do Mundo FIFA 2026. Jogo Brasil x Marrocos em 13/06, escalação da Seleção, 12 grupos completos, álbum, mascote e hino oficial. Acesse centraldascopas.com.br."
         />
         <meta
           name="keywords"
-          content="central da copa, copa do mundo, jogos da copa, escalação brasil, chaves da copa, álbum da copa, mascote da copa, hino da copa, música da copa, rumo ao hexa, jogo do brasil 13/06, centraldascopas.com.br"
+          content="copa do mundo 2026, central da copa, brasil x marrocos, jogo do brasil 13/06, escalação brasil 2026, grupos copa 2026, álbum copa 2026, mascote copa 2026, hino copa 2026, rumo ao hexa, centraldascopas.com.br"
         />
         <link rel="canonical" href="https://aprendaaudaces.lovable.app/central-da-copa" />
-        <meta property="og:title" content="Central da Copa: Tudo sobre a Copa do Mundo" />
-        <meta property="og:description" content="Jogos, escalação, chaves, álbum, mascote e hino. Rumo ao Hexa!" />
+        <meta property="og:title" content="Central da Copa 2026: Brasil x Marrocos 13/06" />
+        <meta property="og:description" content="Jogo Brasil x Marrocos, escalação, 12 grupos, álbum, mascote e hino. Rumo ao Hexa!" />
         <meta property="og:url" content="https://aprendaaudaces.lovable.app/central-da-copa" />
         <meta property="og:type" content="website" />
         <script type="application/ld+json">{JSON.stringify({
           "@context": "https://schema.org",
           "@type": "SportsEvent",
-          name: "Copa do Mundo - Central da Copa",
-          description: "Cobertura completa da Copa do Mundo: jogos, escalações, grupos, álbum, mascote e hino oficial.",
+          name: "Copa do Mundo FIFA 2026 - Central da Copa",
+          description: "Cobertura completa da Copa do Mundo 2026: jogo Brasil x Marrocos em 13/06, escalações, 12 grupos, álbum, mascote e hino oficial.",
           startDate: "2026-06-11",
+          endDate: "2026-07-19",
           sport: "Futebol",
           url: "https://centraldascopas.com.br",
-          location: { "@type": "Place", name: "Estádios da Copa" },
+          location: [
+            { "@type": "Place", name: "Estados Unidos" },
+            { "@type": "Place", name: "México" },
+            { "@type": "Place", name: "Canadá" },
+          ],
         })}</script>
       </Helmet>
 
@@ -85,12 +98,12 @@ const CentralDaCopa = () => {
           <Card className="bg-card/10 backdrop-blur border-accent/40">
             <CardHeader>
               <CardTitle className="flex items-center gap-3 text-3xl text-primary-foreground">
-                <Calendar className="w-8 h-8 text-accent" /> Jogo do Brasil — 13/06
+                <Calendar className="w-8 h-8 text-accent" /> Jogo do Brasil — 13/06/2026
               </CardTitle>
             </CardHeader>
             <CardContent className="text-primary-foreground/90 text-lg space-y-3">
               <p>
-                <strong className="text-accent">Brasil x Argentina</strong> — abertura clássica da fase de grupos.
+                <strong className="text-accent">Brasil x Marrocos</strong> — estreia da Seleção pelo Grupo D na Copa do Mundo FIFA 2026.
                 Horário: <strong>16h</strong> (horário de Brasília). Transmissão nas principais emissoras.
               </p>
               <p>
