@@ -98,12 +98,12 @@ const CentralDaCopa = () => {
           <Card className="bg-card/10 backdrop-blur border-accent/40">
             <CardHeader>
               <CardTitle className="flex items-center gap-3 text-3xl text-primary-foreground">
-                <Calendar className="w-8 h-8 text-accent" /> Jogo do Brasil — 13/06
+                <Calendar className="w-8 h-8 text-accent" /> Jogo do Brasil — 13/06/2026
               </CardTitle>
             </CardHeader>
             <CardContent className="text-primary-foreground/90 text-lg space-y-3">
               <p>
-                <strong className="text-accent">Brasil x Argentina</strong> — abertura clássica da fase de grupos.
+                <strong className="text-accent">Brasil x Marrocos</strong> — estreia da Seleção pelo Grupo D na Copa do Mundo FIFA 2026.
                 Horário: <strong>16h</strong> (horário de Brasília). Transmissão nas principais emissoras.
               </p>
               <p>
