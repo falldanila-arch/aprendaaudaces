@@ -1,4 +1,4 @@
-import { Helmet } from "react-helmet-async";
+import { Helmet } from "react-helmet";
 import { motion } from "framer-motion";
 import { Trophy, Calendar, Users, Music, Star, ExternalLink, Flag, Shield } from "lucide-react";
 import { Button } from "@/components/ui/button";
