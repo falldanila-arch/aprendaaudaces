@@ -8,7 +8,7 @@ import { WhatsAppButton } from "@/components/WhatsAppButton";
 const Copa2026 = () => {
   const jogosBrasil = [
     { data: "11/06/2026", adversario: "Marrocos", horario: "16h", local: "Dallas, EUA", fase: "1ª rodada" },
-    { data: "19/06/2026", adversario: "Haiti", horario: "13h", local: "Houston, EUA", fase: "2ª rodada" },
+    { data: "19/06/2026", adversario: "Haiti", horario: "21h30", local: "Houston, EUA", fase: "2ª rodada" },
     { data: "25/06/2026", adversario: "Suíça", horario: "16h", local: "Los Angeles, EUA", fase: "3ª rodada" },
   ];
 
@@ -28,7 +28,7 @@ const Copa2026 = () => {
     { data: "13/06", jogo: "Holanda x Gana", grupo: "Grupo H", horario: "13h" },
     { data: "13/06", jogo: "Egito x Uruguai", grupo: "Grupo C", horario: "11h" },
     { data: "14/06", jogo: "Arábia Saudita x Alemanha", grupo: "Grupo F", horario: "15h" },
-    { data: "19/06", jogo: "Brasil x Haiti", grupo: "Grupo D", horario: "13h" },
+    { data: "19/06", jogo: "Brasil x Haiti", grupo: "Grupo D", horario: "21h30" },
   ];
 
   return (
@@ -100,7 +100,7 @@ const Copa2026 = () => {
             <CardContent className="text-primary-foreground/90 text-lg space-y-4 pt-6">
               <p>
                 O Brasil enfrenta o Haiti na <strong className="text-accent">segunda rodada</strong> do Grupo D da Copa do Mundo FIFA 2026.
-                A partida acontece no dia <strong>19 de junho de 2026</strong>, às <strong>13h</strong> (horário de Brasília), no estádio de Houston, nos Estados Unidos.
+                A partida acontece no dia <strong>19 de junho de 2026</strong>, às <strong>21h30</strong> (horário de Brasília), no estádio de Houston, nos Estados Unidos.
                 Após a estreia contra o Marrocos, a Seleção Brasileira busca a vitória para garantir a liderança do grupo.
               </p>
               <p>
@@ -118,7 +118,7 @@ const Copa2026 = () => {
               </p>
               <div className="flex flex-wrap gap-4 pt-2">
                 <span className="inline-flex items-center gap-2 bg-primary-foreground/10 px-4 py-2 rounded-lg">
-                  <Clock className="w-4 h-4 text-accent" /> 13h (Brasília)
+                  <Clock className="w-4 h-4 text-accent" /> 21h30 (Brasília)
                 </span>
                 <span className="inline-flex items-center gap-2 bg-primary-foreground/10 px-4 py-2 rounded-lg">
                   <MapPin className="w-4 h-4 text-accent" /> Houston, EUA
