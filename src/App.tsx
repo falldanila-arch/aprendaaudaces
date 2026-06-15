@@ -134,6 +134,7 @@ const App = () => (
           <Route path="/digitalizar-molde-audaces" element={<DigitalizarMoldeAudaces />} />
           <Route path="/tutoriais-costura" element={<TutoriaisCostura />} />
           <Route path="/central-da-copa" element={<CentralDaCopa />} />
+          <Route path="/copa-2026" element={<Copa2026 />} />
           <Route path="/camisa-selecao-brasil" element={<CamisaSelecaoBrasil />} />
           <Route path="/cursos-de-modelagem" element={<CursosDeModelagem />} />
           <Route path="/audaces-economizando-tecido" element={<AudacesEconomizandoTecido />} />
