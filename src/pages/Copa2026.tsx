@@ -100,7 +100,7 @@ const Copa2026 = () => {
             <CardContent className="text-primary-foreground/90 text-lg space-y-4 pt-6">
               <p>
                 O Brasil enfrenta o Haiti na <strong className="text-accent">segunda rodada</strong> do Grupo D da Copa do Mundo FIFA 2026.
-                A partida acontece no dia <strong>19 de junho de 2026</strong>, às <strong>13h</strong> (horário de Brasília), no estádio de Houston, nos Estados Unidos.
+                A partida acontece no dia <strong>19 de junho de 2026</strong>, às <strong>21h30</strong> (horário de Brasília), no estádio de Houston, nos Estados Unidos.
                 Após a estreia contra o Marrocos, a Seleção Brasileira busca a vitória para garantir a liderança do grupo.
               </p>
               <p>
