@@ -8,7 +8,7 @@ import { WhatsAppButton } from "@/components/WhatsAppButton";
 const Copa2026 = () => {
   const jogosBrasil = [
     { data: "11/06/2026", adversario: "Marrocos", horario: "16h", local: "Dallas, EUA", fase: "1ª rodada" },
-    { data: "19/06/2026", adversario: "Haiti", horario: "13h", local: "Houston, EUA", fase: "2ª rodada" },
+    { data: "19/06/2026", adversario: "Haiti", horario: "21h30", local: "Houston, EUA", fase: "2ª rodada" },
     { data: "25/06/2026", adversario: "Suíça", horario: "16h", local: "Los Angeles, EUA", fase: "3ª rodada" },
   ];
 
