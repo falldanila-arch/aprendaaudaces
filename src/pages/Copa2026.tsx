@@ -118,7 +118,7 @@ const Copa2026 = () => {
               </p>
               <div className="flex flex-wrap gap-4 pt-2">
                 <span className="inline-flex items-center gap-2 bg-primary-foreground/10 px-4 py-2 rounded-lg">
-                  <Clock className="w-4 h-4 text-accent" /> 13h (Brasília)
+                  <Clock className="w-4 h-4 text-accent" /> 21h30 (Brasília)
                 </span>
                 <span className="inline-flex items-center gap-2 bg-primary-foreground/10 px-4 py-2 rounded-lg">
                   <MapPin className="w-4 h-4 text-accent" /> Houston, EUA
