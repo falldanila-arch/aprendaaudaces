@@ -28,7 +28,7 @@ const Copa2026 = () => {
     { data: "13/06", jogo: "Holanda x Gana", grupo: "Grupo H", horario: "13h" },
     { data: "13/06", jogo: "Egito x Uruguai", grupo: "Grupo C", horario: "11h" },
     { data: "14/06", jogo: "Arábia Saudita x Alemanha", grupo: "Grupo F", horario: "15h" },
-    { data: "19/06", jogo: "Brasil x Haiti", grupo: "Grupo D", horario: "13h" },
+    { data: "19/06", jogo: "Brasil x Haiti", grupo: "Grupo D", horario: "21h30" },
   ];
 
   return (
