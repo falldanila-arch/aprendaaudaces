@@ -49,6 +49,7 @@ import DigitalizarMoldeAudaces from "./pages/DigitalizarMoldeAudaces";
 import TutoriaisCostura from "./pages/TutoriaisCostura";
 import CentralDaCopa from "./pages/CentralDaCopa";
 import CamisaSelecaoBrasil from "./pages/CamisaSelecaoBrasil";
+import Copa2026 from "./pages/Copa2026";
 
 // Article pages
 import AudacesEconomizandoTecido from "./pages/articles/AudacesEconomizandoTecido";
