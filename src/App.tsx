@@ -49,6 +49,7 @@ import DigitalizarMoldeAudaces from "./pages/DigitalizarMoldeAudaces";
 import TutoriaisCostura from "./pages/TutoriaisCostura";
 import CentralDaCopa from "./pages/CentralDaCopa";
 import CamisaSelecaoBrasil from "./pages/CamisaSelecaoBrasil";
+import Copa2026 from "./pages/Copa2026";
 
 // Article pages
 import AudacesEconomizandoTecido from "./pages/articles/AudacesEconomizandoTecido";
@@ -133,6 +134,7 @@ const App = () => (
           <Route path="/digitalizar-molde-audaces" element={<DigitalizarMoldeAudaces />} />
           <Route path="/tutoriais-costura" element={<TutoriaisCostura />} />
           <Route path="/central-da-copa" element={<CentralDaCopa />} />
+          <Route path="/copa-2026" element={<Copa2026 />} />
           <Route path="/camisa-selecao-brasil" element={<CamisaSelecaoBrasil />} />
           <Route path="/cursos-de-modelagem" element={<CursosDeModelagem />} />
           <Route path="/audaces-economizando-tecido" element={<AudacesEconomizandoTecido />} />
