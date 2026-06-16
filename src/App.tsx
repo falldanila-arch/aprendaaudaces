@@ -50,6 +50,7 @@ import TutoriaisCostura from "./pages/TutoriaisCostura";
 import CentralDaCopa from "./pages/CentralDaCopa";
 import CamisaSelecaoBrasil from "./pages/CamisaSelecaoBrasil";
 import Copa2026 from "./pages/Copa2026";
+import ModelagemCamisaBrasil2026 from "./pages/ModelagemCamisaBrasil2026";
 
 // Article pages
 import AudacesEconomizandoTecido from "./pages/articles/AudacesEconomizandoTecido";
@@ -136,6 +137,7 @@ const App = () => (
           <Route path="/central-da-copa" element={<CentralDaCopa />} />
           <Route path="/copa-2026" element={<Copa2026 />} />
           <Route path="/camisa-selecao-brasil" element={<CamisaSelecaoBrasil />} />
+          <Route path="/modelagem-camisa-brasil-copa-2026" element={<ModelagemCamisaBrasil2026 />} />
           <Route path="/cursos-de-modelagem" element={<CursosDeModelagem />} />
           <Route path="/audaces-economizando-tecido" element={<AudacesEconomizandoTecido />} />
           <Route path="/moldes-digitais-sublimacao" element={<MoldesDigitaisSublimacao />} />
