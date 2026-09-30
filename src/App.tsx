@@ -106,7 +106,7 @@ const App = () => (
           <Route path="/reguas-esquadros-costura" element={<ReguasEsquadrosCostura />} />
           <Route path="/corte-enfesto-tecido" element={<CorteEnfestoTecido />} />
           <Route path="/modelagem-digital-page" element={<ModelagemDigitalPage />} />
-          <Route path=/modelagem-digital-completa" element={<ModelagemDigitalPage />} />
+          <Route path="/modelagem-digital-completa" element={<ModelagemDigitalPage />} />
           <Route path="/modelagem-profissional" element={<ModelagemProfissional />} />
           <Route path="/criacao-de-roupas" element={<CriacaoRoupas />} />
           <Route path="/modelagem-cad" element={<ModelagemCad />} />
@@ -171,7 +171,7 @@ const App = () => (
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
-      </BrowserRouter basename="/aprendaaudaces">
+      </BrowserRouter>
     </TooltipProvider>
   </QueryClientProvider>
 );
